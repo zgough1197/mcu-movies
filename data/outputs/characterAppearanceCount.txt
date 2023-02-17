@@ -1,0 +1,160 @@
+Stan Lee: 22
+Nick Fury: 11
+Tony Stark: 10
+Steve Rogers: 10
+Bruce Banner: 9
+Natasha Romanoff: 9
+Thor: 9
+James Rhodes: 8
+Pepper Potts: 7
+Happy Hogan: 7
+Bucky Barnes: 7
+Loki: 6
+Heimdall: 6
+Sam Wilson: 6
+Wanda Maximoff: 6
+Peter Parker: 6
+Stephen Strange: 6
+Wong: 6
+Howard Stark: 5
+Erik Selvig: 5
+Clint Barton: 5
+Peggy Carter: 5
+Maria Hill: 5
+Thanos: 5
+Peter Quill: 5
+Drax the Destroyer: 5
+Groot: 5
+Rocket Raccoon: 5
+Nebula: 5
+May Parker: 5
+Ned Leeds: 5
+Thaddeus Ross: 4
+Jane Foster: 4
+Gamora: 4
+Kraglin Obfonteri: 4
+Scott Lang: 4
+T'Challa: 4
+Mantis: 4
+Okoye: 4
+Shuri: 4
+M'Baku: 4
+Phil Coulson: 3
+Odin: 3
+Darcy Lewis: 3
+Sif: 3
+Hogun: 3
+Fandral: 3
+Volstagg: 3
+Frigga: 3
+Johann Schmidt: 3
+Collector: 3
+Vision: 3
+Hank Pym: 3
+Hope van Dyne: 3
+Cassie Lang: 3
+Everett Ross: 3
+Michelle Jones-Watson: 3
+Flash Thompson: 3
+Betty Brant: 3
+Brunnhilde: 3
+Korg: 3
+Ramonda: 3
+Carol Danvers: 3
+Emil Blonsky: 2
+Arnim Zola: 2
+Trevor Slattery: 2
+Harley Keener: 2
+Alexander Pierce: 2
+Pietro Maximoff: 2
+Ronan the Accuser: 2
+Yondu Udonta: 2
+Howard the Duck: 2
+Laura Barton: 2
+Ulysses Klaue: 2
+Cooper Barton: 2
+Lila Barton: 2
+Nathaniel Barton: 2
+Luis: 2
+T'Chaka: 2
+Karl Mordo: 2
+Christine Palmer: 2
+Ancient One: 2
+Miek: 2
+Erik Stevens: 2
+Nakia: 2
+Cull Obsidian: 2
+Ebony Maw: 2
+Proxima Midnight: 2
+Corvus Glaive: 2
+Janet van Dyne: 2
+Talos: 2
+Maria Rambeau: 2
+J. Jonah Jameson Jr.: 2
+Valentina Allegra de Fontaine: 2
+Obadiah Stane: 1
+Betty Ross: 1
+Justin Hammer: 1
+Ivan Vanko: 1
+Laufey: 1
+Aldrich Killian: 1
+Malekith: 1
+Ultron: 1
+Darren Cross: 1
+Helmut Zemo: 1
+Kaecilius: 1
+Dormammu: 1
+Ego: 1
+Ayesha: 1
+Adrian Toomes: 1
+Liz Allan: 1
+Hela: 1
+Skurge: 1
+Grandmaster: 1
+W'Kabi: 1
+Ava Starr: 1
+Yon-Rogg: 1
+Goose: 1
+Quentin Beck: 1
+Yelena Belova: 1
+Melina Vostokoff: 1
+Alexei Shostakov: 1
+Dreykov: 1
+Antonia Dreykov: 1
+Shang-Chi: 1
+Xu Wenwu: 1
+Katy Chen: 1
+Sersi: 1
+Ikaris: 1
+Thena: 1
+Ajak: 1
+Dane Whitman: 1
+Kingo: 1
+Sprite: 1
+Phastos: 1
+Makkari: 1
+Druig: 1
+Gilgamesh: 1
+Arishem the Judge: 1
+Kro: 1
+Pip the Troll: 1
+Eric Brooks: 1
+Eros: 1
+Peter 2: 1
+Peter 3: 1
+Max Dillon: 1
+Norman Osborn: 1
+Otto Octavius: 1
+Curt Connors: 1
+Matt Murdock: 1
+Flint Marko: 1
+Eddie Brock: 1
+America Chavez: 1
+Blackagar Boltagon: 1
+Reed Richards: 1
+Charles Xavier: 1
+Gorr the God Butcher: 1
+Zeus: 1
+Hercules: 1
+Ch'ah Toh Almehen: 1
+Riri WIlliams: 1

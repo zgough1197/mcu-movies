@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Avenger",
+    "weight": 4,
+    "members": [
+      "Steve Rogers",
+      "Bruce Banner",
+      "Thor",
+      "Clint Barton",
+      "Wanda Maximoff",
+      "James Rhodes",
+      "Sam Wilson",
+      "Peter Parker",
+      "Rocket Raccoon",
+      "Nebula",
+      "Carol Danvers",
+      "Okoye",
+      "Scott Lang",
+      "Pietro Maximoff",
+      "Vision",
+      "Natasha Romanoff",
+      "Tony Stark"
+    ]
+  },
+  {
+    "name": "Eternal",
+    "weight": 3,
+    "members": [
+      "Ajak",
+      "Sersi",
+      "Ikaris",
+      "Thena",
+      "Kingo",
+      "Phastos",
+      "Makkari",
+      "Druig",
+      "Gilgamesh",
+      "Eros",
+      "Sprite"
+    ]
+  },
+  {
+    "name": "Guardian of the galaxy",
+    "weight": 5,
+    "members": [
+      "Peter Quill",
+      "Rocket Raccoon",
+      "Groot",
+      "Drax the Destroyer",
+      "Mantis",
+      "Nebula",
+      "Kraglin Obfonteri",
+      "Cosmo",
+      "Thor",
+      "Yondu Udonta",
+      "Gamora"
+    ]
+  },
+  {
+    "name": "Asgardian",
+    "weight": 6,
+    "members": [
+      "Odin",
+      "Frigga",
+      "Hela",
+      "Thor",
+      "Brunnhilde",
+      "Heimdall",
+      "Sif",
+      "Tyr",
+      "Volstagg",
+      "Fandral",
+      "Skurge",
+      "Hogun",
+      "Loki",
+      "Sylvie"
+    ]
+  },
+  {
+    "name": "Illuminati",
+    "weight": 1,
+    "movie": "Doctor Strange in the Multiverse of Madness",
+    "members": [
+      "Karl Mordo",
+      "Charles Xavier",
+      "Reed Richards",
+      "Peggy Carter",
+      "Blackagar Boltagon",
+      "Maria Rambeau"
+    ]
+  },
+  {
+    "name": "Not a cat",
+    "weight": 2,
+    "members": [
+      "Goose"
+    ]
+  }
+]

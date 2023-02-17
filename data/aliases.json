@@ -1,0 +1,909 @@
+[
+	{
+		"name": "Aaron Davis",
+		"aliases": [
+			"Prowler",
+			"Aaron",
+			"Davis"
+		]
+	},
+	{
+		"name": "Adrian Toomes",
+		"aliases": [
+			"Vulture",
+			"Toomes"
+		]
+	},
+	{
+		"name": "Aldrich Killian",
+		"aliases": [
+			"Mandarin",
+			"Killian",
+			"Aldrich"
+		]
+	},
+	{
+		"name": "Alexander Pierce",
+		"aliases": [
+			"Pierce",
+			"Secretary Pierce"
+		]
+	},
+	{
+		"name": "Alexei Shostakov",
+		"aliases": [
+			"Alexei",
+			"Red Guardian"
+		]
+	},
+	{
+		"name": "America Chavez",
+		"aliases": [
+			"America"
+		]
+	},
+	{
+		"name": "Antonia Dreykov",
+		"aliases": [
+			"Antonia",
+			"Taskmaster"
+		]
+	},
+	{
+		"name": "Arishem the Judge",
+		"aliases": [
+			"Arishem"
+		]
+	},
+	{
+		"name": "Arnim Zola",
+		"aliases": [
+			"Zola",
+			"Arnim"
+		]
+	},
+	{
+		"name": "Ava Starr",
+		"aliases": [
+			"Ava",
+			"Ghost"
+		]
+	},
+	{
+		"name": "Betty Brant",
+		"aliases": [
+			"Betty",
+			"Elizabeth Brant",
+			"Brant"
+		]
+	},
+	{
+		"name": "Betty Ross",
+		"aliases": [
+			"Betty",
+			"Elizabeth Ross"
+		]
+	},
+	{
+		"name": "Blackagar Boltagon",
+		"aliases": [
+			"Black Bolt",
+			"Blackagar",
+			"Boltagon"
+		]
+	},
+	{
+		"name": "Bruce Banner",
+		"aliases": [
+			"Bruce",
+			"Banner",
+			"Robert Banner",
+			"Hulk",
+			"Incredible Hulk",
+			"Smart Hulk",
+			"Doctor Hulk",
+			"Dr Hulk"
+		]
+	},
+	{
+		"name": "Brunnhilde",
+		"aliases": [
+			"Valkyrie",
+			"Scrapper 142"
+		]
+	},
+	{
+		"name": "Bucky Barnes",
+		"aliases": [
+			"James Buchanan Barnes",
+			"Bucky",
+			"James Barnes",
+			"Winter Soldier"
+		]
+	},
+	{
+		"name": "Carol Danvers",
+		"aliases": [
+			"Captain Marvel",
+			"Vers",
+			"Danvers"
+		]
+	},
+	{
+		"name": "Cassie Lang",
+		"aliases": [
+			"Cassie",
+			"Cassandra Lang"
+		]
+	},
+	{
+		"name": "Ch'ah Toh Almehen",
+		"aliases": [
+			"K'uk'ulkan",
+			"Kukulkan",
+			"Namor"
+		]
+	},
+	{
+		"name": "Charles Xavier",
+		"aliases": [
+			"Professor X"
+		]
+	},
+	{
+		"name": "Christine Palmer",
+		"aliases": [
+			"Christine"
+		]
+	},
+	{
+		"name": "Clint Barton",
+		"aliases": [
+			"Hawkeye",
+			"Clint",
+			"Ronin",
+			"Barton"
+		]
+	},
+	{
+		"name": "Collector",
+		"aliases": [
+			"The Collector",
+			"Taneleer Tivan",
+			"Tivan",
+			"Taneleer"
+		]
+	},
+	{
+		"name": "Cooper Barton",
+		"aliases": [
+			"Cooper"
+		]
+	},
+	{
+		"name": "Cosmo",
+		"aliases": [
+			"Cosmo the Spacedog",
+			"Cosmo the Dog"
+		]
+	},
+	{
+		"name": "Curt Connors",
+		"aliases": [
+			"Lizard",
+			"Curtis Connors",
+			"Doctor Connors",
+			"Dr Connors",
+			"Connors"
+		]
+	},
+	{
+		"name": "Dane Whitman",
+		"aliases": [
+			"Whitman",
+			"Black Knight"
+		]
+	},
+	{
+		"name": "Darcy Lewis",
+		"aliases": [
+			"Darcy",
+			"Doctor Lewis",
+			"Dr Lewis"
+		]
+	},
+	{
+		"name": "Darren Cross",
+		"aliases": [
+			"Cross",
+			"Yellowjacket",
+			"Doctor Cross",
+			"Dr Cross"
+		]
+	},
+	{
+		"name": "Drax the Destroyer",
+		"aliases": [
+			"Drax"
+		]
+	},
+	{
+		"name": "Dreykov",
+		"aliases": [
+			"General Dreykov"
+		]
+	},
+	{
+		"name": "Eddie Brock",
+		"aliases": [
+			"Venom",
+			"Brock"
+		]
+	},
+	{
+		"name": "Ego",
+		"aliases": [
+			"Ego the Living Planet"
+		]
+	},
+	{
+		"name": "Emil Blonsky",
+		"aliases": [
+			"Abomination",
+			"Blonsky"
+		]
+	},
+	{
+		"name": "Eric Brooks",
+		"aliases": [
+			"Blade"
+		]
+	},
+	{
+		"name": "Erik Selvig",
+		"aliases": [
+			"Doctor Selvig",
+			"Dr Selvig",
+			"Doctor Erik Selvig",
+			"Dr Erik Selvig"
+		]
+	},
+	{
+		"name": "Erik Stevens",
+		"aliases": [
+			"Erik Killmonger",
+			"Killmonger",
+			"N'Jadaka"
+		]
+	},
+	{
+		"name": "Eros",
+		"aliases": [
+			"Starfox"
+		]
+	},
+	{
+		"name": "Everett Ross",
+		"aliases": [
+			"Ross",
+			"Agent Ross",
+			"Agent Everett Ross"
+		]
+	},
+	{
+		"name": "Flash Thompson",
+		"aliases": [
+			"Flash"
+		]
+	},
+	{
+		"name": "Flint Marko",
+		"aliases": [
+			"Marko",
+			"Sandman"
+		]
+	},
+	{
+		"name": "Gorr the God Butcher",
+		"aliases": [
+			"Gorr"
+		]
+	},
+	{
+		"name": "Grandmaster",
+		"aliases": [
+			"En Dwi Gast",
+			"Gast"
+		]
+	},
+	{
+		"name": "Hank Pym",
+		"aliases": [
+			"Pym",
+			"Doctor Pym",
+			"Dr Pym"
+		]
+	},
+	{
+		"name": "Happy Hogan",
+		"aliases": [
+			"Happy"
+		]
+	},
+	{
+		"name": "Harley Keener",
+		"aliases": [
+			"Harley",
+			"Keener"
+		]
+	},
+	{
+		"name": "Helmut Zemo",
+		"aliases": [
+			"Baron Zemo",
+			"Zemo"
+		]
+	},
+	{
+		"name": "Hercules",
+		"aliases": [
+			"Hercules Panhellenios"
+		]
+	},
+	{
+		"name": "Hope van Dyne",
+		"aliases": [
+			"Wasp",
+			"Hope"
+		]
+	},
+	{
+		"name": "Howard the Duck",
+		"aliases": [
+			"Howard Duckson"
+		]
+	},
+	{
+		"name": "Ivan Vanko",
+		"aliases": [
+			"Vanko",
+			"Whiplash"
+		]
+	},
+	{
+		"name": "J. Jonah Jameson Jr.",
+		"aliases": [
+			"J Jonah Jameson",
+			"J. Jonah Jameson",
+			"Jameson"
+		]
+	},
+	{
+		"name": "James Rhodes",
+		"aliases": [
+			"Rhodey",
+			"Rhodes",
+			"War Machine",
+			"Iron Patriot"
+		]
+	},
+	{
+		"name": "Jane Foster",
+		"aliases": [
+			"Jane",
+			"Foster",
+			"Mighty Thor",
+			"Doctor Jane Foster",
+			"Dr Jane Foster"
+		]
+	},
+	{
+		"name": "Janet van Dyne",
+		"aliases": [
+			"Janet"
+		]
+	},
+	{
+		"name": "Johann Schmidt",
+		"aliases": [
+			"Red Skull",
+			"Schmidt"
+		]
+	},
+	{
+		"name": "Justin Hammer",
+		"aliases": [
+			"Hammer"
+		]
+	},
+	{
+		"name": "Karl Mordo",
+		"aliases": [
+			"Mordo"
+		]
+	},
+	{
+		"name": "Katy Chen",
+		"aliases": [
+			"Katy",
+			"Chen Ruiwen"
+		]
+	},
+	{
+		"name": "Kraglin Obfonteri",
+		"aliases": [
+			"Kraglin"
+		]
+	},
+	{
+		"name": "Laura Barton",
+		"aliases": [
+			"Agent 19",
+			"Laura"
+		]
+	},
+	{
+		"name": "Lila Barton",
+		"aliases": [
+			"Lila"
+		]
+	},
+	{
+		"name": "Liz Allan",
+		"aliases": [
+			"Liz",
+			"Elizabeth Allan",
+			"Elizabeth Toomes",
+			"Liz Toomes"
+		]
+	},
+	{
+		"name": "Loki",
+		"aliases": [
+			"Loki Laufeyson",
+			"God of Mischief"
+		]
+	},
+	{
+		"name": "Mar-Vell",
+		"aliases": [
+			"Wendy Lawson",
+			"Lawson"
+		]
+	},
+	{
+		"name": "Maria Hill",
+		"aliases": [
+			"Commander Hill"
+		]
+	},
+	{
+		"name": "Maria Rambeau",
+		"aliases": [
+			"Director Rambeau",
+			"Photon"
+		]
+	},
+	{
+		"name": "Matt Murdock",
+		"aliases": [
+			"Matthew Murdock",
+			"Murdock",
+			"Daredevil"
+		]
+	},
+	{
+		"name": "Max Dillon",
+		"aliases": [
+			"Maxwell Dillon",
+			"Dillon",
+			"Electro"
+		]
+	},
+	{
+		"name": "May Parker",
+		"aliases": [
+			"May",
+			"Aunt May",
+			"Maybelle Parker"
+		]
+	},
+	{
+		"name": "Melina Vostokoff",
+		"aliases": [
+			"Melina",
+			"Vostokoff"
+		]
+	},
+	{
+		"name": "Michelle Jones-Watson",
+		"aliases": [
+			"MJ",
+			"Michelle Watson",
+			"MJ Watson"
+		]
+	},
+	{
+		"name": "Monica Rambeau",
+		"aliases": [
+			"Monica",
+			"Geraldine"
+		]
+	},
+	{
+		"name": "Morgan Stark",
+		"aliases": [
+			"Morgan"
+		]
+	},
+	{
+		"name": "Natasha Romanoff",
+		"aliases": [
+			"Natasha",
+			"Natalia Romanoff",
+			"Black Widow"
+		]
+	},
+	{
+		"name": "Nathaniel Barton",
+		"aliases": [
+			"Nathaniel",
+			"Nate"
+		]
+	},
+	{
+		"name": "Ned Leeds",
+		"aliases": [
+			"Ned",
+			"Edward Leeds"
+		]
+	},
+	{
+		"name": "Nick Fury",
+		"aliases": [
+			"Fury",
+			"Nicholas Fury",
+			"Nicholas Joseph Fury"
+		]
+	},
+	{
+		"name": "Norman Osborn",
+		"aliases": [
+			"Green Goblin",
+			"Doctor Osborn",
+			"Dr Osborn"
+		]
+	},
+	{
+		"name": "Obadiah Stane",
+		"aliases": [
+			"Stane",
+			"Iron Monger",
+			"Obie"
+		]
+	},
+	{
+		"name": "Odin",
+		"aliases": [
+			"Odin Borson",
+			"God of the Heavens"
+		]
+	},
+	{
+		"name": "Okoye",
+		"aliases": [
+			"Midnight Angel"
+		]
+	},
+	{
+		"name": "Otto Octavius",
+		"aliases": [
+			"Doctor Octavius",
+			"Dr Octavius",
+			"Doctor Octopus",
+			"Dr Octopus",
+			"Doc Ock",
+			"Otto Gunther Octavius"
+		]
+	},
+	{
+		"name": "Peggy Carter",
+		"aliases": [
+			"Peggy",
+			"Margaret Elizabeth Carter",
+			"Margaret Carter",
+			"Agent Carter",
+			"Agent 13"
+		]
+	},
+	{
+		"name": "Pepper Potts",
+		"aliases": [
+			"Pepper",
+			"Virginia Potts",
+			"Rescue"
+		]
+	},
+	{
+		"name": "Peter 2",
+		"aliases": [
+			"Spider-Man",
+			"Spiderman",
+			"Peter Parker",
+			"Peter Benjamin Parker",
+			"Peter-Two",
+			"Peter-2",
+			"Peter Two",
+			"Friendly Neighborhood Spiderman",
+			"Friendly Neighborhood Spider-man",
+			"Friendly Neighborhood Spider Man"
+		]
+	},
+	{
+		"name": "Peter 3",
+		"aliases": [
+			"Spider-Man",
+			"Spiderman",
+			"Peter Parker",
+			"Peter Benjamin Parker",
+			"Peter-Three",
+			"Peter-3",
+			"Peter Three",
+			"Amazing Spiderman",
+			"Amazing Spider-Man",
+			"Amazing Spider Man"
+		]
+	},
+	{
+		"name": "Peter Parker",
+		"aliases": [
+			"Spider-Man",
+			"Spiderman",
+			"Spider Man",
+			"Iron Spider",
+			"Peter Benjamin Parker"
+		]
+	},
+	{
+		"name": "Peter Quill",
+		"aliases": [
+			"Star-Lord",
+			"StarLord",
+			"Star Lord",
+			"Peter Jason Quill"
+		]
+	},
+	{
+		"name": "Phil Coulson",
+		"aliases": [
+			"Coulson",
+			"Phillip Coulson",
+			"Phillip J. Coulson",
+			"Phillip J Coulson",
+			"Agent Coulson"
+		]
+	},
+	{
+		"name": "Pietro Maximoff",
+		"aliases": [
+			"Quicksilver"
+		]
+	},
+	{
+		"name": "Pip the Troll",
+		"aliases": [
+			"Pip",
+			"Pip Gofern"
+		]
+	},
+	{
+		"name": "Quentin Beck",
+		"aliases": [
+			"Beck",
+			"Mysterio"
+		]
+	},
+	{
+		"name": "Ramonda",
+		"aliases": [
+			"Queen Ramonda"
+		]
+	},
+	{
+		"name": "Reed Richards",
+		"aliases": [
+			"Mister Fantastic",
+			"Mr Fantastic",
+			"Dr Reed Richards",
+			"Dr Richards",
+			"Doctor Reed Richards",
+			"Doctor Richards"
+		]
+	},
+	{
+		"name": "Riri WIlliams",
+		"aliases": [
+			"Riri",
+			"Ironheart"
+		]
+	},
+	{
+		"name": "Rocket Raccoon",
+		"aliases": [
+			"Rocket",
+			"89P13"
+		]
+	},
+	{
+		"name": "Ronan the Accuser",
+		"aliases": [
+			"Ronan"
+		]
+	},
+	{
+		"name": "Sam Wilson",
+		"aliases": [
+			"Samuel WIlson",
+			"Samuel Thomas Wilson",
+			"Falcon",
+			"Captain America"
+		]
+	},
+	{
+		"name": "Scott Lang",
+		"aliases": [
+			"Lang",
+			"Antman",
+			"Ant-Man",
+			"Ant Man",
+			"Scott Edward Harris Lang"
+		]
+	},
+	{
+		"name": "Xu Shang-Chi",
+		"aliases": [
+			"Shang-Chi",
+			"Shaun"
+		]
+	},
+	{
+		"name": "Xu Xialing",
+		"aliases": [
+			"Xialing"
+		]
+	},
+	{
+		"name": "Shuri",
+		"aliases": [
+			"Black Panther"
+		]
+	},
+	{
+		"name": "Sif",
+		"aliases": [
+			"Lady Sif"
+		]
+	},
+	{
+		"name": "Skurge",
+		"aliases": [
+			"Executioner"
+		]
+	},
+	{
+		"name": "Stan Lee",
+		"aliases": [
+			"Watcher Informant",
+			"Stan the Man"
+		]
+	},
+	{
+		"name": "Stephen Strange",
+		"aliases": [
+			"Doctor Strange",
+			"Dr Strange",
+			"Strange",
+			"Stephen Vincent Strange"
+		]
+	},
+	{
+		"name": "Steve Rogers",
+		"aliases": [
+			"Steven Rogers",
+			"Steven Grant Rogers",
+			"Captain America",
+			"Captain Rogers"
+		]
+	},
+	{
+		"name": "T'Chaka",
+		"aliases": [
+			"Black Panther"
+		]
+	},
+	{
+		"name": "T'Challa",
+		"aliases": [
+			"Black Panther"
+		]
+	},
+	{
+		"name": "Thaddeus Ross",
+		"aliases": [
+			"Ross",
+			"Thaddeus E Ross",
+			"Thaddeus E. Ross",
+			"Thunderbolt Ross",
+			"Secretary Ross",
+			"General Ross"
+		]
+	},
+	{
+		"name": "Thor",
+		"aliases": [
+			"Thor Odinson",
+			"God of Thunder"
+		]
+	},
+	{
+		"name": "Tony Stark",
+		"aliases": [
+			"Stark",
+			"Iron Man",
+			"Anthony Stark",
+			"Anthony Edward Stark"
+		]
+	},
+	{
+		"name": "Trevor Slattery",
+		"aliases": [
+			"Mandarin",
+			"Slattery",
+			"Trevor Slattery"
+		]
+	},
+	{
+		"name": "Ulysses Klaue",
+		"aliases": [
+			"Klaue"
+		]
+	},
+	{
+		"name": "Valentina Allegra de Fontaine",
+		"aliases": [
+			"Valentina"
+		]
+	},
+	{
+		"name": "Wanda Maximoff",
+		"aliases": [
+			"Wanda",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"name": "Xu Wenwu",
+		"aliases": [
+			"Wenwu"
+		]
+	},
+	{
+		"name": "Yelena Belova",
+		"aliases": [
+			"Yelena"
+		]
+	},
+	{
+		"name": "Yondu Udonta",
+		"aliases": [
+			"Yondu"
+		]
+	},
+	{
+		"name": "Zeus",
+		"aliases": [
+			"God of Lightning",
+			"Zeus Panhellenios"
+		]
+	}
+]

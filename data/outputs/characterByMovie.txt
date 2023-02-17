@@ -1,0 +1,452 @@
+Iron Man	Tony Stark/Stark/Iron Man/Anthony Stark/Anthony Edward Stark	Title character
+Iron Man	James Rhodes/Rhodey/Rhodes/War Machine/Iron Patriot	Avenger
+Iron Man	Obadiah Stane/Stane/Iron Monger/Obie	Villain
+Iron Man	Happy Hogan/Happy	Recurring character
+Iron Man	Howard Stark	Recurring character
+Iron Man	Pepper Potts/Pepper/Virginia Potts/Rescue	Recurring character
+Iron Man	Phil Coulson/Coulson/Phillip Coulson/Phillip J. Coulson/Phillip J Coulson/Agent Coulson	Recurring character
+Iron Man	Nick Fury/Fury/Nicholas Fury/Nicholas Joseph Fury	Post Credits
+Iron Man	Stan Lee/Watcher Informant/Stan the Man	Cameo
+The Incredible Hulk	Bruce Banner/Bruce/Banner/Robert Banner/Hulk/Incredible Hulk/Smart Hulk/Doctor Hulk/Dr Hulk	Title character
+The Incredible Hulk	Betty Ross/Betty/Elizabeth Ross	Main character
+The Incredible Hulk	Emil Blonsky/Abomination/Blonsky	Villain
+The Incredible Hulk	Thaddeus Ross/Ross/Thaddeus E Ross/Thaddeus E. Ross/Thunderbolt Ross/Secretary Ross/General Ross	Recurring character
+The Incredible Hulk	Tony Stark/Stark/Iron Man/Anthony Stark/Anthony Edward Stark	Post Credits
+The Incredible Hulk	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Iron Man 2	Tony Stark/Stark/Iron Man/Anthony Stark/Anthony Edward Stark	Title character
+Iron Man 2	James Rhodes/Rhodey/Rhodes/War Machine/Iron Patriot	Avenger
+Iron Man 2	Natasha Romanoff/Natasha/Natalia Romanoff/Black Widow/Natalie Rushman	Avenger
+Iron Man 2	Ivan Vanko/Vanko/Whiplash	Villain
+Iron Man 2	Justin Hammer/Hammer	Villain
+Iron Man 2	Happy Hogan/Happy	Recurring character
+Iron Man 2	Howard Stark	Recurring character
+Iron Man 2	Nick Fury/Fury/Nicholas Fury/Nicholas Joseph Fury	Recurring character
+Iron Man 2	Pepper Potts/Pepper/Virginia Potts/Rescue	Recurring character
+Iron Man 2	Phil Coulson/Coulson/Phillip Coulson/Phillip J. Coulson/Phillip J Coulson/Agent Coulson	Recurring character
+Iron Man 2	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Thor	Thor/Thor Odinson/God of Thunder	Title character
+Thor	Fandral	Asgardian
+Thor	Frigga	Asgardian
+Thor	Heimdall	Asgardian
+Thor	Hogun	Asgardian
+Thor	Loki/Loki Laufeyson/God of Mischief	Asgardian
+Thor	Odin/Odin Borson/God of the Heavens	Asgardian
+Thor	Sif/Lady Sif	Asgardian
+Thor	Volstagg	Asgardian
+Thor	Laufey	Villain
+Thor	Darcy Lewis/Darcy/Doctor Lewis/Dr Lewis	Recurring character
+Thor	Erik Selvig/Doctor Selvig/Dr Selvig/Doctor Erik Selvig/Dr Erik Selvig	Recurring character
+Thor	Jane Foster/Jane/Foster/Mighty Thor/Doctor Jane Foster/Dr Jane Foster	Recurring character
+Thor	Clint Barton/Hawkeye/Clint/Ronin/Barton	Post Credits
+Thor	Nick Fury/Fury/Nicholas Fury/Nicholas Joseph Fury	Post Credits
+Thor	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Captain America: The First Avenger	Steve Rogers/Steven Rogers/Steven Grant Rogers/Captain America/Captain Rogers	Title character
+Captain America: The First Avenger	Arnim Zola/Zola/Arnim	Villain
+Captain America: The First Avenger	Johann Schmidt/Red Skull/Schmidt	Villain
+Captain America: The First Avenger	Bucky Barnes/James Buchanan Barnes/Bucky/James Barnes/Winter Soldier	Recurring character
+Captain America: The First Avenger	Howard Stark	Recurring character
+Captain America: The First Avenger	Nick Fury/Fury/Nicholas Fury/Nicholas Joseph Fury	Recurring character
+Captain America: The First Avenger	Peggy Carter/Peggy/Margaret Elizabeth Carter/Margaret Carter/Agent Carter/Agent 13/Captain Carter	Recurring character
+Captain America: The First Avenger	Stan Lee/Watcher Informant/Stan the Man	Cameo
+The Avengers	Bruce Banner/Bruce/Banner/Robert Banner/Hulk/Incredible Hulk/Smart Hulk/Doctor Hulk/Dr Hulk	Avenger
+The Avengers	Clint Barton/Hawkeye/Clint/Ronin/Barton	Avenger
+The Avengers	Natasha Romanoff/Natasha/Natalia Romanoff/Black Widow/Natalie Rushman	Avenger
+The Avengers	Steve Rogers/Steven Rogers/Steven Grant Rogers/Captain America/Captain Rogers	Avenger
+The Avengers	Thor/Thor Odinson/God of Thunder	Avenger
+The Avengers	Tony Stark/Stark/Iron Man/Anthony Stark/Anthony Edward Stark	Avenger
+The Avengers	Loki/Loki Laufeyson/God of Mischief	Villain
+The Avengers	Erik Selvig/Doctor Selvig/Dr Selvig/Doctor Erik Selvig/Dr Erik Selvig	Recurring character
+The Avengers	Maria Hill/Commander Hill	Recurring character
+The Avengers	Nick Fury/Fury/Nicholas Fury/Nicholas Joseph Fury	Recurring character
+The Avengers	Pepper Potts/Pepper/Virginia Potts/Rescue	Recurring character
+The Avengers	Phil Coulson/Coulson/Phillip Coulson/Phillip J. Coulson/Phillip J Coulson/Agent Coulson	Recurring character
+The Avengers	Thanos	Post Credits
+The Avengers	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Iron Man 3	Tony Stark/Stark/Iron Man/Anthony Stark/Anthony Edward Stark	Title character
+Iron Man 3	James Rhodes/Rhodey/Rhodes/War Machine/Iron Patriot	Avenger
+Iron Man 3	Aldrich Killian/Mandarin/Killian/Aldrich	Villain
+Iron Man 3	Trevor Slattery/Mandarin/Slattery/Trevor Slattery	Villain
+Iron Man 3	Happy Hogan/Happy	Recurring character
+Iron Man 3	Harley Keener/Harley/Keener	Recurring character
+Iron Man 3	Pepper Potts/Pepper/Virginia Potts/Rescue	Recurring character
+Iron Man 3	Bruce Banner/Bruce/Banner/Robert Banner/Hulk/Incredible Hulk/Smart Hulk/Doctor Hulk/Dr Hulk	Post Credits
+Iron Man 3	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Thor: The Dark World	Thor/Thor Odinson/God of Thunder	Title character
+Thor: The Dark World	Fandral	Asgardian
+Thor: The Dark World	Frigga	Asgardian
+Thor: The Dark World	Heimdall	Asgardian
+Thor: The Dark World	Hogun	Asgardian
+Thor: The Dark World	Loki/Loki Laufeyson/God of Mischief	Asgardian
+Thor: The Dark World	Odin/Odin Borson/God of the Heavens	Asgardian
+Thor: The Dark World	Sif/Lady Sif	Asgardian
+Thor: The Dark World	Volstagg	Asgardian
+Thor: The Dark World	Malekith	Villain
+Thor: The Dark World	Darcy Lewis/Darcy/Doctor Lewis/Dr Lewis	Recurring character
+Thor: The Dark World	Darcy Lewis/Darcy/Doctor Lewis/Dr Lewis	Recurring character
+Thor: The Dark World	Erik Selvig/Doctor Selvig/Dr Selvig/Doctor Erik Selvig/Dr Erik Selvig	Recurring character
+Thor: The Dark World	Jane Foster/Jane/Foster/Mighty Thor/Doctor Jane Foster/Dr Jane Foster	Recurring character
+Thor: The Dark World	Collector/The Collector/Taneleer Tivan/Tivan/Taneleer	Post Credits
+Thor: The Dark World	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Captain America: The Winter Soldier	Bucky Barnes/James Buchanan Barnes/Bucky/James Barnes/Winter Soldier	Title character
+Captain America: The Winter Soldier	Steve Rogers/Steven Rogers/Steven Grant Rogers/Captain America/Captain Rogers	Title character
+Captain America: The Winter Soldier	Natasha Romanoff/Natasha/Natalia Romanoff/Black Widow/Natalie Rushman	Avenger
+Captain America: The Winter Soldier	Sam Wilson/Samuel WIlson/Samuel Thomas Wilson/Falcon/Captain America	Avenger
+Captain America: The Winter Soldier	Alexander Pierce/Pierce/Secretary Pierce	Villain
+Captain America: The Winter Soldier	Arnim Zola/Zola/Arnim	Villain
+Captain America: The Winter Soldier	Maria Hill/Commander Hill	Recurring character
+Captain America: The Winter Soldier	Nick Fury/Fury/Nicholas Fury/Nicholas Joseph Fury	Recurring character
+Captain America: The Winter Soldier	Peggy Carter/Peggy/Margaret Elizabeth Carter/Margaret Carter/Agent Carter/Agent 13/Captain Carter	Recurring character
+Captain America: The Winter Soldier	Pietro Maximoff/Quicksilver	Post Credits
+Captain America: The Winter Soldier	Wanda Maximoff/Wanda/Scarlet Witch	Post Credits
+Captain America: The Winter Soldier	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Guardians of the Galaxy	Rocket Raccoon/Rocket/89P13	Avenger
+Guardians of the Galaxy	Drax the Destroyer/Drax	Guardian of the galaxy
+Guardians of the Galaxy	Gamora	Guardian of the galaxy
+Guardians of the Galaxy	Groot	Guardian of the galaxy
+Guardians of the Galaxy	Kraglin Obfonteri/Kraglin	Guardian of the galaxy
+Guardians of the Galaxy	Peter Quill/Star-Lord/StarLord/Star Lord/Peter Jason Quill	Guardian of the galaxy
+Guardians of the Galaxy	Nebula	Villain
+Guardians of the Galaxy	Ronan the Accuser/Ronan	Villain
+Guardians of the Galaxy	Thanos	Villain
+Guardians of the Galaxy	Yondu Udonta/Yondu	Villain
+Guardians of the Galaxy	Collector/The Collector/Taneleer Tivan/Tivan/Taneleer	Recurring character
+Guardians of the Galaxy	Howard the Duck/Howard Duckson	Recurring character
+Guardians of the Galaxy	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Avengers: Age of Ultron	Ultron	Title character
+Avengers: Age of Ultron	Bruce Banner/Bruce/Banner/Robert Banner/Hulk/Incredible Hulk/Smart Hulk/Doctor Hulk/Dr Hulk	Avenger
+Avengers: Age of Ultron	Clint Barton/Hawkeye/Clint/Ronin/Barton	Avenger
+Avengers: Age of Ultron	James Rhodes/Rhodey/Rhodes/War Machine/Iron Patriot	Avenger
+Avengers: Age of Ultron	Natasha Romanoff/Natasha/Natalia Romanoff/Black Widow/Natalie Rushman	Avenger
+Avengers: Age of Ultron	Pietro Maximoff/Quicksilver	Avenger
+Avengers: Age of Ultron	Sam Wilson/Samuel WIlson/Samuel Thomas Wilson/Falcon/Captain America	Avenger
+Avengers: Age of Ultron	Steve Rogers/Steven Rogers/Steven Grant Rogers/Captain America/Captain Rogers	Avenger
+Avengers: Age of Ultron	Thor/Thor Odinson/God of Thunder	Avenger
+Avengers: Age of Ultron	Tony Stark/Stark/Iron Man/Anthony Stark/Anthony Edward Stark	Avenger
+Avengers: Age of Ultron	Vision	Avenger
+Avengers: Age of Ultron	Wanda Maximoff/Wanda/Scarlet Witch	Avenger
+Avengers: Age of Ultron	Heimdall	Asgardian
+Avengers: Age of Ultron	Cooper Barton/Cooper	Recurring character
+Avengers: Age of Ultron	Erik Selvig/Doctor Selvig/Dr Selvig/Doctor Erik Selvig/Dr Erik Selvig	Recurring character
+Avengers: Age of Ultron	Laura Barton/Agent 19/Laura	Recurring character
+Avengers: Age of Ultron	Lila Barton/Lila	Recurring character
+Avengers: Age of Ultron	Maria Hill/Commander Hill	Recurring character
+Avengers: Age of Ultron	Nathaniel Barton/Nathaniel/Nate	Recurring character
+Avengers: Age of Ultron	Nick Fury/Fury/Nicholas Fury/Nicholas Joseph Fury	Recurring character
+Avengers: Age of Ultron	Peggy Carter/Peggy/Margaret Elizabeth Carter/Margaret Carter/Agent Carter/Agent 13/Captain Carter	Recurring character
+Avengers: Age of Ultron	Ulysses Klaue/Klaue	Recurring character
+Avengers: Age of Ultron	Thanos	Post Credits
+Avengers: Age of Ultron	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Ant-Man	Scott Lang/Lang/Antman/Ant-Man/Ant Man/Scott Edward Harris Lang	Title character
+Ant-Man	Sam Wilson/Samuel WIlson/Samuel Thomas Wilson/Falcon/Captain America	Avenger
+Ant-Man	Darren Cross/Cross/Yellowjacket/Doctor Cross/Dr Cross	Villain
+Ant-Man	Cassie Lang/Cassie/Cassandra Lang	Recurring character
+Ant-Man	Hank Pym/Pym/Doctor Pym/Dr Pym	Recurring character
+Ant-Man	Hope van Dyne/Wasp/Hope	Recurring character
+Ant-Man	Luis	Recurring character
+Ant-Man	Bucky Barnes/James Buchanan Barnes/Bucky/James Barnes/Winter Soldier	Post Credits
+Ant-Man	Steve Rogers/Steven Rogers/Steven Grant Rogers/Captain America/Captain Rogers	Post Credits
+Ant-Man	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Captain America: Civil War	Steve Rogers/Steven Rogers/Steven Grant Rogers/Captain America/Captain Rogers	Title character
+Captain America: Civil War	Clint Barton/Hawkeye/Clint/Ronin/Barton	Avenger
+Captain America: Civil War	James Rhodes/Rhodey/Rhodes/War Machine/Iron Patriot	Avenger
+Captain America: Civil War	Natasha Romanoff/Natasha/Natalia Romanoff/Black Widow/Natalie Rushman	Avenger
+Captain America: Civil War	Peter Parker/Spider-Man/Spiderman/Spider Man/Iron Spider/Peter Benjamin Parker/Peter 1/Peter-One/Peter One/Peter-1	Avenger
+Captain America: Civil War	Sam Wilson/Samuel WIlson/Samuel Thomas Wilson/Falcon/Captain America	Avenger
+Captain America: Civil War	Scott Lang/Lang/Antman/Ant-Man/Ant Man/Scott Edward Harris Lang	Avenger
+Captain America: Civil War	Tony Stark/Stark/Iron Man/Anthony Stark/Anthony Edward Stark	Avenger
+Captain America: Civil War	Vision	Avenger
+Captain America: Civil War	Wanda Maximoff/Wanda/Scarlet Witch	Avenger
+Captain America: Civil War	Helmut Zemo/Baron Zemo/Zemo	Villain
+Captain America: Civil War	Bucky Barnes/James Buchanan Barnes/Bucky/James Barnes/Winter Soldier	Recurring character
+Captain America: Civil War	Everett Ross/Ross/Agent Ross/Agent Everett Ross	Recurring character
+Captain America: Civil War	Howard Stark	Recurring character
+Captain America: Civil War	May Parker/May/Aunt May/Maybelle Parker	Recurring character
+Captain America: Civil War	T'Chaka/Black Panther	Recurring character
+Captain America: Civil War	T'Challa/Black Panther	Recurring character
+Captain America: Civil War	Thaddeus Ross/Ross/Thaddeus E Ross/Thaddeus E. Ross/Thunderbolt Ross/Secretary Ross/General Ross	Recurring character
+Captain America: Civil War	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Doctor Strange	Stephen Strange/Doctor Strange/Dr Strange/Strange/Stephen Vincent Strange	Title character
+Doctor Strange	Dormammu	Villain
+Doctor Strange	Kaecilius	Villain
+Doctor Strange	Ancient One	Recurring character
+Doctor Strange	Christine Palmer/Christine	Recurring character
+Doctor Strange	Karl Mordo/Mordo/Baron Mordo	Recurring character
+Doctor Strange	Wong	Recurring character
+Doctor Strange	Thor/Thor Odinson/God of Thunder	Post Credits
+Doctor Strange	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Guardians of the Galaxy Vol. 2	Nebula	Avenger
+Guardians of the Galaxy Vol. 2	Rocket Raccoon/Rocket/89P13	Avenger
+Guardians of the Galaxy Vol. 2	Drax the Destroyer/Drax	Guardian of the galaxy
+Guardians of the Galaxy Vol. 2	Gamora	Guardian of the galaxy
+Guardians of the Galaxy Vol. 2	Groot	Guardian of the galaxy
+Guardians of the Galaxy Vol. 2	Kraglin Obfonteri/Kraglin	Guardian of the galaxy
+Guardians of the Galaxy Vol. 2	Mantis	Guardian of the galaxy
+Guardians of the Galaxy Vol. 2	Peter Quill/Star-Lord/StarLord/Star Lord/Peter Jason Quill	Guardian of the galaxy
+Guardians of the Galaxy Vol. 2	Yondu Udonta/Yondu	Guardian of the galaxy
+Guardians of the Galaxy Vol. 2	Ayesha	Villain
+Guardians of the Galaxy Vol. 2	Ego/Ego the Living Planet	Villain
+Guardians of the Galaxy Vol. 2	Howard the Duck/Howard Duckson	Recurring character
+Guardians of the Galaxy Vol. 2	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Spider-Man: Homecoming	Peter Parker/Spider-Man/Spiderman/Spider Man/Iron Spider/Peter Benjamin Parker/Peter 1/Peter-One/Peter One/Peter-1	Title character
+Spider-Man: Homecoming	Liz Allan/Liz/Elizabeth Allan/Elizabeth Toomes/Liz Toomes	Main character
+Spider-Man: Homecoming	Steve Rogers/Steven Rogers/Steven Grant Rogers/Captain America/Captain Rogers	Avenger
+Spider-Man: Homecoming	Tony Stark/Stark/Iron Man/Anthony Stark/Anthony Edward Stark	Avenger
+Spider-Man: Homecoming	Adrian Toomes/Vulture/Toomes	Villain
+Spider-Man: Homecoming	Aaron Davis/Prowler/Aaron/Davis	Recurring character
+Spider-Man: Homecoming	Betty Brant/Betty/Elizabeth Brant/Brant	Recurring character
+Spider-Man: Homecoming	Flash Thompson/Flash	Recurring character
+Spider-Man: Homecoming	Happy Hogan/Happy	Recurring character
+Spider-Man: Homecoming	May Parker/May/Aunt May/Maybelle Parker	Recurring character
+Spider-Man: Homecoming	Michelle Jones-Watson/MJ/Michelle Watson/MJ Watson	Recurring character
+Spider-Man: Homecoming	Ned Leeds/Ned/Edward Leeds	Recurring character
+Spider-Man: Homecoming	Pepper Potts/Pepper/Virginia Potts/Rescue	Recurring character
+Spider-Man: Homecoming	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Thor: Ragnarok	Thor/Thor Odinson/God of Thunder	Title character
+Thor: Ragnarok	Bruce Banner/Bruce/Banner/Robert Banner/Hulk/Incredible Hulk/Smart Hulk/Doctor Hulk/Dr Hulk	Avenger
+Thor: Ragnarok	Brunnhilde/Valkyrie/Scrapper 142	Asgardian
+Thor: Ragnarok	Fandral	Asgardian
+Thor: Ragnarok	Heimdall	Asgardian
+Thor: Ragnarok	Hogun	Asgardian
+Thor: Ragnarok	Loki/Loki Laufeyson/God of Mischief	Asgardian
+Thor: Ragnarok	Odin/Odin Borson/God of the Heavens	Asgardian
+Thor: Ragnarok	Volstagg	Asgardian
+Thor: Ragnarok	Grandmaster/En Dwi Gast/Gast	Villain
+Thor: Ragnarok	Hela	Villain
+Thor: Ragnarok	Skurge/Executioner	Villain
+Thor: Ragnarok	Korg	Recurring character
+Thor: Ragnarok	Miek	Recurring character
+Thor: Ragnarok	Stephen Strange/Doctor Strange/Dr Strange/Strange/Stephen Vincent Strange	Recurring character
+Thor: Ragnarok	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Black Panther	T'Chaka/Black Panther	Title character
+Black Panther	T'Challa/Black Panther	Title character
+Black Panther	Okoye/Midnight Angel	Avenger
+Black Panther	Erik Stevens	Villain
+Black Panther	Ulysses Klaue/Klaue	Villain
+Black Panther	W'Kabi	Villain
+Black Panther	Everett Ross/Ross/Agent Ross/Agent Everett Ross	Recurring character
+Black Panther	M'Baku	Recurring character
+Black Panther	Nakia	Recurring character
+Black Panther	Ramonda/Queen Ramonda	Recurring character
+Black Panther	Shuri/Black Panther	Recurring character
+Black Panther	Bucky Barnes/James Buchanan Barnes/Bucky/James Barnes/Winter Soldier	Post Credits
+Black Panther	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Avengers: Infinity War	Bruce Banner/Bruce/Banner/Robert Banner/Hulk/Incredible Hulk/Smart Hulk/Doctor Hulk/Dr Hulk	Avenger
+Avengers: Infinity War	James Rhodes/Rhodey/Rhodes/War Machine/Iron Patriot	Avenger
+Avengers: Infinity War	Natasha Romanoff/Natasha/Natalia Romanoff/Black Widow/Natalie Rushman	Avenger
+Avengers: Infinity War	Nebula	Avenger
+Avengers: Infinity War	Okoye/Midnight Angel	Avenger
+Avengers: Infinity War	Peter Parker/Spider-Man/Spiderman/Spider Man/Iron Spider/Peter Benjamin Parker/Peter 1/Peter-One/Peter One/Peter-1	Avenger
+Avengers: Infinity War	Rocket Raccoon/Rocket/89P13	Avenger
+Avengers: Infinity War	Sam Wilson/Samuel WIlson/Samuel Thomas Wilson/Falcon/Captain America	Avenger
+Avengers: Infinity War	Steve Rogers/Steven Rogers/Steven Grant Rogers/Captain America/Captain Rogers	Avenger
+Avengers: Infinity War	Thor/Thor Odinson/God of Thunder	Avenger
+Avengers: Infinity War	Tony Stark/Stark/Iron Man/Anthony Stark/Anthony Edward Stark	Avenger
+Avengers: Infinity War	Vision	Avenger
+Avengers: Infinity War	Wanda Maximoff/Wanda/Scarlet Witch	Avenger
+Avengers: Infinity War	Drax the Destroyer/Drax	Guardian of the galaxy
+Avengers: Infinity War	Gamora	Guardian of the galaxy
+Avengers: Infinity War	Groot	Guardian of the galaxy
+Avengers: Infinity War	Mantis	Guardian of the galaxy
+Avengers: Infinity War	Peter Quill/Star-Lord/StarLord/Star Lord/Peter Jason Quill	Guardian of the galaxy
+Avengers: Infinity War	Heimdall	Asgardian
+Avengers: Infinity War	Loki/Loki Laufeyson/God of Mischief	Asgardian
+Avengers: Infinity War	Corvus Glaive	Villain
+Avengers: Infinity War	Cull Obsidian	Villain
+Avengers: Infinity War	Ebony Maw	Villain
+Avengers: Infinity War	Proxima Midnight	Villain
+Avengers: Infinity War	Thanos	Villain
+Avengers: Infinity War	Bucky Barnes/James Buchanan Barnes/Bucky/James Barnes/Winter Soldier	Recurring character
+Avengers: Infinity War	Collector/The Collector/Taneleer Tivan/Tivan/Taneleer	Recurring character
+Avengers: Infinity War	Johann Schmidt/Red Skull/Schmidt	Recurring character
+Avengers: Infinity War	M'Baku	Recurring character
+Avengers: Infinity War	Ned Leeds/Ned/Edward Leeds	Recurring character
+Avengers: Infinity War	Pepper Potts/Pepper/Virginia Potts/Rescue	Recurring character
+Avengers: Infinity War	Shuri/Black Panther	Recurring character
+Avengers: Infinity War	Stephen Strange/Doctor Strange/Dr Strange/Strange/Stephen Vincent Strange	Recurring character
+Avengers: Infinity War	T'Challa/Black Panther	Recurring character
+Avengers: Infinity War	Thaddeus Ross/Ross/Thaddeus E Ross/Thaddeus E. Ross/Thunderbolt Ross/Secretary Ross/General Ross	Recurring character
+Avengers: Infinity War	Wong	Recurring character
+Avengers: Infinity War	Maria Hill/Commander Hill	Post Credits
+Avengers: Infinity War	Nick Fury/Fury/Nicholas Fury/Nicholas Joseph Fury	Post Credits
+Avengers: Infinity War	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Ant-Man and the Wasp	Hope van Dyne/Wasp/Hope	Title character
+Ant-Man and the Wasp	Scott Lang/Lang/Antman/Ant-Man/Ant Man/Scott Edward Harris Lang	Title character
+Ant-Man and the Wasp	Ava Starr/Ava/Ghost	Villain
+Ant-Man and the Wasp	Cassie Lang/Cassie/Cassandra Lang	Recurring character
+Ant-Man and the Wasp	Hank Pym/Pym/Doctor Pym/Dr Pym	Recurring character
+Ant-Man and the Wasp	Janet van Dyne/Janet	Recurring character
+Ant-Man and the Wasp	Luis	Recurring character
+Ant-Man and the Wasp	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Captain Marvel	Carol Danvers/Captain Marvel/Vers/Danvers	Title character
+Captain Marvel	Ronan the Accuser/Ronan	Villain
+Captain Marvel	Yon-Rogg	Villain
+Captain Marvel	Maria Rambeau/Director Rambeau/Photon/Captain Marvel	Recurring character
+Captain Marvel	Nick Fury/Fury/Nicholas Fury/Nicholas Joseph Fury	Recurring character
+Captain Marvel	Stan Lee/Watcher Informant/Stan the Man	Recurring character
+Captain Marvel	Talos	Recurring character
+Captain Marvel	Goose	Not a cat
+Captain Marvel	Bruce Banner/Bruce/Banner/Robert Banner/Hulk/Incredible Hulk/Smart Hulk/Doctor Hulk/Dr Hulk	Post Credits
+Captain Marvel	James Rhodes/Rhodey/Rhodes/War Machine/Iron Patriot	Post Credits
+Captain Marvel	Natasha Romanoff/Natasha/Natalia Romanoff/Black Widow/Natalie Rushman	Post Credits
+Captain Marvel	Steve Rogers/Steven Rogers/Steven Grant Rogers/Captain America/Captain Rogers	Post Credits
+Avengers: Endgame	Bruce Banner/Bruce/Banner/Robert Banner/Hulk/Incredible Hulk/Smart Hulk/Doctor Hulk/Dr Hulk	Avenger
+Avengers: Endgame	Carol Danvers/Captain Marvel/Vers/Danvers	Avenger
+Avengers: Endgame	Clint Barton/Hawkeye/Clint/Ronin/Barton	Avenger
+Avengers: Endgame	James Rhodes/Rhodey/Rhodes/War Machine/Iron Patriot	Avenger
+Avengers: Endgame	Natasha Romanoff/Natasha/Natalia Romanoff/Black Widow/Natalie Rushman	Avenger
+Avengers: Endgame	Nebula	Avenger
+Avengers: Endgame	Okoye/Midnight Angel	Avenger
+Avengers: Endgame	Peter Parker/Spider-Man/Spiderman/Spider Man/Iron Spider/Peter Benjamin Parker/Peter 1/Peter-One/Peter One/Peter-1	Avenger
+Avengers: Endgame	Rocket Raccoon/Rocket/89P13	Avenger
+Avengers: Endgame	Sam Wilson/Samuel WIlson/Samuel Thomas Wilson/Falcon/Captain America	Avenger
+Avengers: Endgame	Scott Lang/Lang/Antman/Ant-Man/Ant Man/Scott Edward Harris Lang	Avenger
+Avengers: Endgame	Steve Rogers/Steven Rogers/Steven Grant Rogers/Captain America/Captain Rogers	Avenger
+Avengers: Endgame	Thor/Thor Odinson/God of Thunder	Avenger
+Avengers: Endgame	Tony Stark/Stark/Iron Man/Anthony Stark/Anthony Edward Stark	Avenger
+Avengers: Endgame	Wanda Maximoff/Wanda/Scarlet Witch	Avenger
+Avengers: Endgame	Drax the Destroyer/Drax	Guardian of the galaxy
+Avengers: Endgame	Gamora	Guardian of the galaxy
+Avengers: Endgame	Groot	Guardian of the galaxy
+Avengers: Endgame	Kraglin Obfonteri/Kraglin	Guardian of the galaxy
+Avengers: Endgame	Mantis	Guardian of the galaxy
+Avengers: Endgame	Peter Quill/Star-Lord/StarLord/Star Lord/Peter Jason Quill	Guardian of the galaxy
+Avengers: Endgame	Brunnhilde/Valkyrie/Scrapper 142	Asgardian
+Avengers: Endgame	Frigga	Asgardian
+Avengers: Endgame	Loki/Loki Laufeyson/God of Mischief	Asgardian
+Avengers: Endgame	Corvus Glaive	Villain
+Avengers: Endgame	Cull Obsidian	Villain
+Avengers: Endgame	Ebony Maw	Villain
+Avengers: Endgame	Proxima Midnight	Villain
+Avengers: Endgame	Thanos	Villain
+Avengers: Endgame	Alexander Pierce/Pierce/Secretary Pierce	Recurring character
+Avengers: Endgame	Ancient One	Recurring character
+Avengers: Endgame	Bucky Barnes/James Buchanan Barnes/Bucky/James Barnes/Winter Soldier	Recurring character
+Avengers: Endgame	Cassie Lang/Cassie/Cassandra Lang	Recurring character
+Avengers: Endgame	Cooper Barton/Cooper	Recurring character
+Avengers: Endgame	Hank Pym/Pym/Doctor Pym/Dr Pym	Recurring character
+Avengers: Endgame	Happy Hogan/Happy	Recurring character
+Avengers: Endgame	Harley Keener/Harley/Keener	Recurring character
+Avengers: Endgame	Hope van Dyne/Wasp/Hope	Recurring character
+Avengers: Endgame	Howard Stark	Recurring character
+Avengers: Endgame	Jane Foster/Jane/Foster/Mighty Thor/Doctor Jane Foster/Dr Jane Foster	Recurring character
+Avengers: Endgame	Janet van Dyne/Janet	Recurring character
+Avengers: Endgame	Johann Schmidt/Red Skull/Schmidt	Recurring character
+Avengers: Endgame	Korg	Recurring character
+Avengers: Endgame	Laura Barton/Agent 19/Laura	Recurring character
+Avengers: Endgame	Lila Barton/Lila	Recurring character
+Avengers: Endgame	M'Baku	Recurring character
+Avengers: Endgame	Maria Hill/Commander Hill	Recurring character
+Avengers: Endgame	May Parker/May/Aunt May/Maybelle Parker	Recurring character
+Avengers: Endgame	Nathaniel Barton/Nathaniel/Nate	Recurring character
+Avengers: Endgame	Ned Leeds/Ned/Edward Leeds	Recurring character
+Avengers: Endgame	Nick Fury/Fury/Nicholas Fury/Nicholas Joseph Fury	Recurring character
+Avengers: Endgame	Peggy Carter/Peggy/Margaret Elizabeth Carter/Margaret Carter/Agent Carter/Agent 13/Captain Carter	Recurring character
+Avengers: Endgame	Pepper Potts/Pepper/Virginia Potts/Rescue	Recurring character
+Avengers: Endgame	Ramonda/Queen Ramonda	Recurring character
+Avengers: Endgame	Shuri/Black Panther	Recurring character
+Avengers: Endgame	Stephen Strange/Doctor Strange/Dr Strange/Strange/Stephen Vincent Strange	Recurring character
+Avengers: Endgame	T'Challa/Black Panther	Recurring character
+Avengers: Endgame	Thaddeus Ross/Ross/Thaddeus E Ross/Thaddeus E. Ross/Thunderbolt Ross/Secretary Ross/General Ross	Recurring character
+Avengers: Endgame	Wong	Recurring character
+Avengers: Endgame	Stan Lee/Watcher Informant/Stan the Man	Cameo
+Spider-Man: Far From Home	Peter Parker/Spider-Man/Spiderman/Spider Man/Iron Spider/Peter Benjamin Parker/Peter 1/Peter-One/Peter One/Peter-1	Title character
+Spider-Man: Far From Home	Quentin Beck/Beck/Mysterio	Villain
+Spider-Man: Far From Home	Betty Brant/Betty/Elizabeth Brant/Brant	Recurring character
+Spider-Man: Far From Home	Flash Thompson/Flash	Recurring character
+Spider-Man: Far From Home	Happy Hogan/Happy	Recurring character
+Spider-Man: Far From Home	May Parker/May/Aunt May/Maybelle Parker	Recurring character
+Spider-Man: Far From Home	Michelle Jones-Watson/MJ/Michelle Watson/MJ Watson	Recurring character
+Spider-Man: Far From Home	Ned Leeds/Ned/Edward Leeds	Recurring character
+Spider-Man: Far From Home	Talos	Recurring character
+Spider-Man: Far From Home	J. Jonah Jameson Jr./J Jonah Jameson/J. Jonah Jameson/Jameson	Post Credits
+Spider-Man: Far From Home	Nick Fury/Fury/Nicholas Fury/Nicholas Joseph Fury	Post Credits
+Black Widow	Natasha Romanoff/Natasha/Natalia Romanoff/Black Widow/Natalie Rushman	Title character
+Black Widow	Alexei Shostakov/Alexei/Red Guardian	Main character
+Black Widow	Melina Vostokoff/Melina/Vostokoff	Main character
+Black Widow	Yelena Belova/Yelena	Main character
+Black Widow	Antonia Dreykov/Antonia/Taskmaster	Villain
+Black Widow	Dreykov/General Dreykov	Villain
+Black Widow	Valentina Allegra de Fontaine/Valentina	Post Credits
+Shang-Chi and the Legend of the Ten Rings	Shang-Chi/Xu Shang-Chi/Shaun	Title character
+Shang-Chi and the Legend of the Ten Rings	Katy Chen/Katy/Chen Ruiwen	Main character
+Shang-Chi and the Legend of the Ten Rings	Xu Wenwu/Mandarin	Villain
+Shang-Chi and the Legend of the Ten Rings	Emil Blonsky/Abomination/Blonsky	Recurring character
+Shang-Chi and the Legend of the Ten Rings	Trevor Slattery/Mandarin/Slattery/Trevor Slattery	Recurring character
+Shang-Chi and the Legend of the Ten Rings	Wong	Recurring character
+Shang-Chi and the Legend of the Ten Rings	Bruce Banner/Bruce/Banner/Robert Banner/Hulk/Incredible Hulk/Smart Hulk/Doctor Hulk/Dr Hulk	Post Credits
+Shang-Chi and the Legend of the Ten Rings	Carol Danvers/Captain Marvel/Vers/Danvers	Post Credits
+Eternals	Ajak	Eternal
+Eternals	Druig	Eternal
+Eternals	Gilgamesh	Eternal
+Eternals	Ikaris	Eternal
+Eternals	Kingo	Eternal
+Eternals	Makkari	Eternal
+Eternals	Phastos	Eternal
+Eternals	Sersi	Eternal
+Eternals	Sprite	Eternal
+Eternals	Thena	Eternal
+Eternals	Dane Whitman/Whitman/Black Knight	Main character
+Eternals	Arishem the Judge/Arishem	Villain
+Eternals	Kro	Villain
+Eternals	Eric Brooks/Blade	Post Credits
+Eternals	Eros/Starfox	Post Credits
+Eternals	Pip the Troll/Pip/Pip Gofern	Post Credits
+Spider-Man: No Way Home	Peter 2/Spider-Man/Spiderman/Peter Parker/Peter Benjamin Parker/Peter-Two/Peter-2/Peter Two/Friendly Neighborhood Spiderman/Friendly Neighborhood Spider-man/Friendly Neighborhood Spider Man	Title character
+Spider-Man: No Way Home	Peter 3/Spider-Man/Spiderman/Peter Parker/Peter Benjamin Parker/Peter-Three/Peter-3/Peter Three/Amazing Spiderman/Amazing Spider-Man/Amazing Spider Man	Title character
+Spider-Man: No Way Home	Peter Parker/Spider-Man/Spiderman/Spider Man/Iron Spider/Peter Benjamin Parker/Peter 1/Peter-One/Peter One/Peter-1	Title character
+Spider-Man: No Way Home	Otto Octavius/Doctor Octavius/Dr Octavius/Doctor Octopus/Dr Octopus/Doc Ock/Otto Gunther Octavius	Main character
+Spider-Man: No Way Home	Curt Connors/Lizard/Curtis Connors/Doctor Connors/Dr Connors/Connors	Villain
+Spider-Man: No Way Home	Flint Marko/Marko/Sandman	Villain
+Spider-Man: No Way Home	J. Jonah Jameson Jr./J Jonah Jameson/J. Jonah Jameson/Jameson	Villain
+Spider-Man: No Way Home	Max Dillon/Maxwell Dillon/Dillon/Electro	Villain
+Spider-Man: No Way Home	Norman Osborn/Green Goblin/Doctor Osborn/Dr Osborn	Villain
+Spider-Man: No Way Home	Betty Brant/Betty/Elizabeth Brant/Brant	Recurring character
+Spider-Man: No Way Home	Flash Thompson/Flash	Recurring character
+Spider-Man: No Way Home	Happy Hogan/Happy	Recurring character
+Spider-Man: No Way Home	Matt Murdock/Matthew Murdock/Murdock/Daredevil	Recurring character
+Spider-Man: No Way Home	May Parker/May/Aunt May/Maybelle Parker	Recurring character
+Spider-Man: No Way Home	Michelle Jones-Watson/MJ/Michelle Watson/MJ Watson	Recurring character
+Spider-Man: No Way Home	Ned Leeds/Ned/Edward Leeds	Recurring character
+Spider-Man: No Way Home	Stephen Strange/Doctor Strange/Dr Strange/Strange/Stephen Vincent Strange	Recurring character
+Spider-Man: No Way Home	Wong	Recurring character
+Spider-Man: No Way Home	Eddie Brock/Venom/Brock	Post Credits
+Doctor Strange in the Multiverse of Madness	Stephen Strange/Doctor Strange/Dr Strange/Strange/Stephen Vincent Strange	Title character
+Doctor Strange in the Multiverse of Madness	America Chavez/America	Main character
+Doctor Strange in the Multiverse of Madness	Blackagar Boltagon/Black Bolt/Blackagar/Boltagon	Illuminati
+Doctor Strange in the Multiverse of Madness	Charles Xavier/Professor X	Illuminati
+Doctor Strange in the Multiverse of Madness	Karl Mordo/Mordo/Baron Mordo	Illuminati
+Doctor Strange in the Multiverse of Madness	Maria Rambeau/Director Rambeau/Photon/Captain Marvel	Illuminati
+Doctor Strange in the Multiverse of Madness	Peggy Carter/Peggy/Margaret Elizabeth Carter/Margaret Carter/Agent Carter/Agent 13/Captain Carter	Illuminati
+Doctor Strange in the Multiverse of Madness	Reed Richards/Mister Fantastic/Mr Fantastic/Dr Reed Richards/Dr Richards/Doctor Reed Richards/Doctor Richards	Illuminati
+Doctor Strange in the Multiverse of Madness	Wanda Maximoff/Wanda/Scarlet Witch	Villain
+Doctor Strange in the Multiverse of Madness	Christine Palmer/Christine	Recurring character
+Doctor Strange in the Multiverse of Madness	Wong	Recurring character
+Thor: Love and Thunder	Thor/Thor Odinson/God of Thunder	Title character
+Thor: Love and Thunder	Nebula	Avenger
+Thor: Love and Thunder	Rocket Raccoon/Rocket/89P13	Avenger
+Thor: Love and Thunder	Drax the Destroyer/Drax	Guardian of the galaxy
+Thor: Love and Thunder	Groot	Guardian of the galaxy
+Thor: Love and Thunder	Kraglin Obfonteri/Kraglin	Guardian of the galaxy
+Thor: Love and Thunder	Mantis	Guardian of the galaxy
+Thor: Love and Thunder	Peter Quill/Star-Lord/StarLord/Star Lord/Peter Jason Quill	Guardian of the galaxy
+Thor: Love and Thunder	Brunnhilde/Valkyrie/Scrapper 142	Asgardian
+Thor: Love and Thunder	Heimdall	Asgardian
+Thor: Love and Thunder	Sif/Lady Sif	Asgardian
+Thor: Love and Thunder	Gorr the God Butcher/Gorr	Villain
+Thor: Love and Thunder	Zeus/God of Lightning/Zeus Panhellenios	Villain
+Thor: Love and Thunder	Darcy Lewis/Darcy/Doctor Lewis/Dr Lewis	Recurring character
+Thor: Love and Thunder	Erik Selvig/Doctor Selvig/Dr Selvig/Doctor Erik Selvig/Dr Erik Selvig	Recurring character
+Thor: Love and Thunder	Jane Foster/Jane/Foster/Mighty Thor/Doctor Jane Foster/Dr Jane Foster	Recurring character
+Thor: Love and Thunder	Korg	Recurring character
+Thor: Love and Thunder	Miek	Recurring character
+Thor: Love and Thunder	Hercules/Hercules Panhellenios	Post Credits
+Black Panther: Wakanda Forever	Shuri/Black Panther	Title character
+Black Panther: Wakanda Forever	Riri WIlliams/Riri/Ironheart	Main character
+Black Panther: Wakanda Forever	Okoye/Midnight Angel	Avenger
+Black Panther: Wakanda Forever	Ch'ah Toh Almehen/K'uk'ulkan/Kukulkan/Namor	Villain
+Black Panther: Wakanda Forever	Erik Stevens	Recurring character
+Black Panther: Wakanda Forever	Everett Ross/Ross/Agent Ross/Agent Everett Ross	Recurring character
+Black Panther: Wakanda Forever	M'Baku	Recurring character
+Black Panther: Wakanda Forever	Nakia	Recurring character
+Black Panther: Wakanda Forever	Ramonda/Queen Ramonda	Recurring character
+Black Panther: Wakanda Forever	Valentina Allegra de Fontaine/Valentina	Recurring character

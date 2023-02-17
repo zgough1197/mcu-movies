@@ -1,0 +1,6145 @@
+[
+	{
+		"name": "Tony Stark",
+		"aliases": [
+			{
+				"alias": "Stark"
+			},
+			{
+				"alias": "Iron Man"
+			},
+			{
+				"alias": "Anthony Stark"
+			},
+			{
+				"alias": "Anthony Edward Stark"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "The Incredible Hulk",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Iron Man 2",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Iron Man 3",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "James Rhodes",
+		"aliases": [
+			{
+				"alias": "Rhodey"
+			},
+			{
+				"alias": "Rhodes"
+			},
+			{
+				"alias": "War Machine"
+			},
+			{
+				"alias": "Iron Patriot"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Iron Man 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Iron Man 3",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain Marvel",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "Pepper Potts",
+		"aliases": [
+			{
+				"alias": "Pepper"
+			},
+			{
+				"alias": "Virginia Potts"
+			},
+			{
+				"alias": "Rescue"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Iron Man 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Iron Man 3",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Phil Coulson",
+		"aliases": [
+			{
+				"alias": "Coulson"
+			},
+			{
+				"alias": "Phillip Coulson"
+			},
+			{
+				"alias": "Phillip J. Coulson"
+			},
+			{
+				"alias": "Phillip J Coulson"
+			},
+			{
+				"alias": "Agent Coulson"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Iron Man 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Howard Stark",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Iron Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Iron Man 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: The First Avenger",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Happy Hogan",
+		"aliases": [
+			{
+				"alias": "Happy"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Iron Man 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Iron Man 3",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Far From Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Nick Fury",
+		"aliases": [
+			{
+				"alias": "Fury"
+			},
+			{
+				"alias": "Nicholas Fury"
+			},
+			{
+				"alias": "Nicholas Joseph Fury"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Iron Man 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: The First Avenger",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: The Winter Soldier",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain Marvel",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Far From Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Obadiah Stane",
+		"aliases": [
+			{
+				"alias": "Stane"
+			},
+			{
+				"alias": "Iron Monger"
+			},
+			{
+				"alias": "Obie"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Stan Lee",
+		"aliases": [
+			{
+				"alias": "Watcher Informant"
+			},
+			{
+				"alias": "Stan the Man"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "The Incredible Hulk",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Iron Man 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Captain America: The First Avenger",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Iron Man 3",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Captain America: The Winter Soldier",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Ant-Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Doctor Strange",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Guardians of the Galaxy Vol. 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Black Panther",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Ant-Man and the Wasp",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			},
+			{
+				"name": "Captain Marvel",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": true
+			}
+		]
+	},
+	{
+		"name": "Bruce Banner",
+		"aliases": [
+			{
+				"alias": "Bruce"
+			},
+			{
+				"alias": "Banner"
+			},
+			{
+				"alias": "Robert Banner"
+			},
+			{
+				"alias": "Hulk"
+			},
+			{
+				"alias": "Incredible Hulk"
+			},
+			{
+				"alias": "Smart Hulk"
+			},
+			{
+				"alias": "Doctor Hulk"
+			},
+			{
+				"alias": "Dr Hulk"
+			}
+		],
+		"appearances": [
+			{
+				"name": "The Incredible Hulk",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Iron Man 3",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain Marvel",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Shang-Chi and the Legend of the Ten Rings",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "Betty Ross",
+		"aliases": [
+			{
+				"alias": "Betty"
+			},
+			{
+				"alias": "Elizabeth Ross"
+			}
+		],
+		"appearances": [
+			{
+				"name": "The Incredible Hulk",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Emil Blonsky",
+		"aliases": [
+			{
+				"alias": "Abomination"
+			},
+			{
+				"alias": "Blonsky"
+			}
+		],
+		"appearances": [
+			{
+				"name": "The Incredible Hulk",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Shang-Chi and the Legend of the Ten Rings",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Thaddeus Ross",
+		"aliases": [
+			{
+				"alias": "Ross"
+			},
+			{
+				"alias": "Thaddeus E Ross"
+			},
+			{
+				"alias": "Thaddeus E. Ross"
+			},
+			{
+				"alias": "Thunderbolt Ross"
+			},
+			{
+				"alias": "Secretary Ross"
+			},
+			{
+				"alias": "General Ross"
+			}
+		],
+		"appearances": [
+			{
+				"name": "The Incredible Hulk",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Justin Hammer",
+		"aliases": [
+			{
+				"alias": "Hammer"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man 2",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Natasha Romanoff",
+		"aliases": [
+			{
+				"alias": "Natasha"
+			},
+			{
+				"alias": "Natalia Romanoff"
+			},
+			{
+				"alias": "Black Widow"
+			},
+			{
+				"alias": "Natalie Rushman",
+				"inMovie": "Iron Man 2"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: The Winter Soldier",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain Marvel",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Widow",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "Ivan Vanko",
+		"aliases": [
+			{
+				"alias": "Vanko"
+			},
+			{
+				"alias": "Whiplash"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Thor",
+		"aliases": [
+			{
+				"alias": "Thor Odinson"
+			},
+			{
+				"alias": "God of Thunder"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Doctor Strange",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			},
+			{
+				"name": "Guardian of the Galaxy",
+				"weight": 5
+			},
+			{
+				"name": "Asgardian",
+				"weight": 6
+			}
+		]
+	},
+	{
+		"name": "Loki",
+		"aliases": [
+			{
+				"alias": "Loki Laufeyson"
+			},
+			{
+				"alias": "God of Mischief"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Asgardian",
+				"weight": 6
+			}
+		]
+	},
+	{
+		"name": "Jane Foster",
+		"aliases": [
+			{
+				"alias": "Jane"
+			},
+			{
+				"alias": "Foster"
+			},
+			{
+				"alias": "Mighty Thor"
+			},
+			{
+				"alias": "Doctor Jane Foster"
+			},
+			{
+				"alias": "Dr Jane Foster"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Odin",
+		"aliases": [
+			{
+				"alias": "Odin Borson"
+			},
+			{
+				"alias": "God of the Heavens"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Asgardian",
+				"weight": 6
+			}
+		]
+	},
+	{
+		"name": "Erik Selvig",
+		"aliases": [
+			{
+				"alias": "Doctor Selvig"
+			},
+			{
+				"alias": "Dr Selvig"
+			},
+			{
+				"alias": "Doctor Erik Selvig"
+			},
+			{
+				"alias": "Dr Erik Selvig"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Darcy Lewis",
+		"aliases": [
+			{
+				"alias": "Darcy"
+			},
+			{
+				"alias": "Doctor Lewis"
+			},
+			{
+				"alias": "Dr Lewis"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Laufey",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Heimdall",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Asgardian",
+				"weight": 6
+			}
+		]
+	},
+	{
+		"name": "Sif",
+		"aliases": [
+			{
+				"alias": "Lady Sif"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Asgardian",
+				"weight": 6
+			}
+		]
+	},
+	{
+		"name": "Hogun",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Asgardian",
+				"weight": 6
+			}
+		]
+	},
+	{
+		"name": "Fandral",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Asgardian",
+				"weight": 6
+			}
+		]
+	},
+	{
+		"name": "Volstagg",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Asgardian",
+				"weight": 6
+			}
+		]
+	},
+	{
+		"name": "Frigga",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Asgardian",
+				"weight": 6
+			}
+		]
+	},
+	{
+		"name": "Clint Barton",
+		"aliases": [
+			{
+				"alias": "Hawkeye"
+			},
+			{
+				"alias": "Clint"
+			},
+			{
+				"alias": "Ronin"
+			},
+			{
+				"alias": "Barton"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "Steve Rogers",
+		"aliases": [
+			{
+				"alias": "Steven Rogers"
+			},
+			{
+				"alias": "Steven Grant Rogers"
+			},
+			{
+				"alias": "Captain America"
+			},
+			{
+				"alias": "Captain Rogers"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: The First Avenger",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: The Winter Soldier",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Ant-Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain Marvel",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "Peggy Carter",
+		"aliases": [
+			{
+				"alias": "Margaret Elizabeth Carter"
+			},
+			{
+				"alias": "Margaret Carter"
+			},
+			{
+				"alias": "Agent Carter"
+			},
+			{
+				"alias": "Agent 13"
+			},
+			{
+				"alias": "Captain Carter",
+				"inMovie": "Doctor Strange in the Multiverse of Madness"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: The First Avenger",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: The Winter Soldier",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Doctor Strange in the Multiverse of Madness",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Illuminati",
+				"weight": 1,
+				"movie": "Doctor Strange in the Multiverse of Madness"
+			}
+		]
+	},
+	{
+		"name": "Bucky Barnes",
+		"aliases": [
+			{
+				"alias": "James Buchanan Barnes"
+			},
+			{
+				"alias": "Bucky"
+			},
+			{
+				"alias": "James Barnes"
+			},
+			{
+				"alias": "Winter Soldier"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: The First Avenger",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: The Winter Soldier",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Ant-Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Panther",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Johann Schmidt",
+		"aliases": [
+			{
+				"alias": "Red Skull"
+			},
+			{
+				"alias": "Schmidt"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: The First Avenger",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Arnim Zola",
+		"aliases": [
+			{
+				"alias": "Zola"
+			},
+			{
+				"alias": "Arnim"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: The First Avenger",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: The Winter Soldier",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Maria Hill",
+		"aliases": [
+			{
+				"alias": "Commander Hill"
+			}
+		],
+		"appearances": [
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: The Winter Soldier",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Thanos",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "The Avengers",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Aldrich Killian",
+		"aliases": [
+			{
+				"alias": "Mandarin"
+			},
+			{
+				"alias": "Killian"
+			},
+			{
+				"alias": "Aldrich"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man 3",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Trevor Slattery",
+		"aliases": [
+			{
+				"alias": "Mandarin"
+			},
+			{
+				"alias": "Slattery"
+			},
+			{
+				"alias": "Trevor Slattery"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man 3",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Shang-Chi and the Legend of the Ten Rings",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Harley Keener",
+		"aliases": [
+			{
+				"alias": "Harley"
+			},
+			{
+				"alias": "Keener"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Iron Man 3",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Malekith",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Collector",
+		"aliases": [
+			{
+				"alias": "The Collector"
+			},
+			{
+				"alias": "Taneleer Tivan"
+			},
+			{
+				"alias": "Tivan"
+			},
+			{
+				"alias": "Taneleer"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor: The Dark World",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Alexander Pierce",
+		"aliases": [
+			{
+				"alias": "Pierce"
+			},
+			{
+				"alias": "Secretary Pierce"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: The Winter Soldier",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Sam Wilson",
+		"aliases": [
+			{
+				"alias": "Samuel WIlson"
+			},
+			{
+				"alias": "Samuel Thomas Wilson"
+			},
+			{
+				"alias": "Falcon"
+			},
+			{
+				"alias": "Captain America"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: The Winter Soldier",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Ant-Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "Wanda Maximoff",
+		"aliases": [
+			{
+				"alias": "Wanda"
+			},
+			{
+				"alias": "Scarlet Witch"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: The Winter Soldier",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Doctor Strange in the Multiverse of Madness",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "Pietro Maximoff",
+		"aliases": [
+			{
+				"alias": "Quicksilver"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: The Winter Soldier",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "Peter Quill",
+		"aliases": [
+			{
+				"alias": "Star-Lord"
+			},
+			{
+				"alias": "StarLord"
+			},
+			{
+				"alias": "Star Lord"
+			},
+			{
+				"alias": "Peter Jason Quill"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Guardians of the Galaxy Vol. 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Guardian of the Galaxy",
+				"weight": 5
+			}
+		]
+	},
+	{
+		"name": "Gamora",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Guardians of the Galaxy Vol. 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Guardian of the Galaxy",
+				"weight": 5
+			}
+		]
+	},
+	{
+		"name": "Drax the Destroyer",
+		"aliases": [
+			{
+				"alias": "Drax"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Guardians of the Galaxy Vol. 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Guardian of the Galaxy",
+				"weight": 5
+			}
+		]
+	},
+	{
+		"name": "Groot",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Guardians of the Galaxy Vol. 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Guardian of the Galaxy",
+				"weight": 5
+			}
+		]
+	},
+	{
+		"name": "Rocket Raccoon",
+		"aliases": [
+			{
+				"alias": "Rocket"
+			},
+			{
+				"alias": "89P13"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Guardians of the Galaxy Vol. 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			},
+			{
+				"name": "Guardian of the Galaxy",
+				"weight": 5
+			}
+		]
+	},
+	{
+		"name": "Ronan the Accuser",
+		"aliases": [
+			{
+				"alias": "Ronan"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain Marvel",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Yondu Udonta",
+		"aliases": [
+			{
+				"alias": "Yondu"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Guardians of the Galaxy Vol. 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Guardian of the Galaxy",
+				"weight": 5
+			}
+		]
+	},
+	{
+		"name": "Nebula",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Guardians of the Galaxy Vol. 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			},
+			{
+				"name": "Guardian of the Galaxy",
+				"weight": 5
+			}
+		]
+	},
+	{
+		"name": "Cosmo",
+		"aliases": [
+			{
+				"alias": "Cosmo the Spacedog"
+			},
+			{
+				"alias": "Cosmo the Dog"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Guardian of the Galaxy",
+				"weight": 5
+			}
+		]
+	},
+	{
+		"name": "Howard the Duck",
+		"aliases": [
+			{
+				"alias": "Howard Duckson"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Guardians of the Galaxy Vol. 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Kraglin Obfonteri",
+		"aliases": [
+			{
+				"alias": "Kraglin"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Guardians of the Galaxy Vol. 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Guardian of the Galaxy",
+				"weight": 5
+			}
+		]
+	},
+	{
+		"name": "Vision",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "Laura Barton",
+		"aliases": [
+			{
+				"alias": "Agent 19"
+			},
+			{
+				"alias": "Laura"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Ultron",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": true,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Ulysses Klaue",
+		"aliases": [
+			{
+				"alias": "Klaue"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Panther",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Cooper Barton",
+		"aliases": [
+			{
+				"alias": "Cooper"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Lila Barton",
+		"aliases": [
+			{
+				"alias": "Lila"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Nathaniel Barton",
+		"aliases": [
+			{
+				"alias": "Nathaniel"
+			},
+			{
+				"alias": "Nate"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Avengers: Age of Ultron",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Scott Lang",
+		"aliases": [
+			{
+				"alias": "Lang"
+			},
+			{
+				"alias": "Antman"
+			},
+			{
+				"alias": "Ant-Man"
+			},
+			{
+				"alias": "Ant Man"
+			},
+			{
+				"alias": "Scott Edward Harris Lang"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Ant-Man",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Ant-Man and the Wasp",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "Hank Pym",
+		"aliases": [
+			{
+				"alias": "Pym"
+			},
+			{
+				"alias": "Doctor Pym"
+			},
+			{
+				"alias": "Dr Pym"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Ant-Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Ant-Man and the Wasp",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Hope van Dyne",
+		"aliases": [
+			{
+				"alias": "Wasp"
+			},
+			{
+				"alias": "Hope"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Ant-Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Ant-Man and the Wasp",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Darren Cross",
+		"aliases": [
+			{
+				"alias": "Cross"
+			},
+			{
+				"alias": "Yellowjacket"
+			},
+			{
+				"alias": "Doctor Cross"
+			},
+			{
+				"alias": "Dr Cross"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Ant-Man",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Cassie Lang",
+		"aliases": [
+			{
+				"alias": "Cassie"
+			},
+			{
+				"alias": "Cassandra Lang"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Ant-Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Ant-Man and the Wasp",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Luis",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Ant-Man",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Ant-Man and the Wasp",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "T'Chaka",
+		"aliases": [
+			{
+				"alias": "Black Panther"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Panther",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "T'Challa",
+		"aliases": [
+			{
+				"alias": "Black Panther"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Panther",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Peter Parker",
+		"aliases": [
+			{
+				"alias": "Spider-Man"
+			},
+			{
+				"alias": "Spiderman"
+			},
+			{
+				"alias": "Spider Man"
+			},
+			{
+				"alias": "Iron Spider"
+			},
+			{
+				"alias": "Peter Benjamin Parker"
+			},
+			{
+				"alias": "Peter 1",
+				"inMovie": "Spider-Man: No Way Home"
+			},
+			{
+				"alias": "Peter-One",
+				"inMovie": "Spider-Man: No Way Home"
+			},
+			{
+				"alias": "Peter One",
+				"inMovie": "Spider-Man: No Way Home"
+			},
+			{
+				"alias": "Peter-1",
+				"inMovie": "Spider-Man: No Way Home"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Far From Home",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "Helmut Zemo",
+		"aliases": [
+			{
+				"alias": "Baron Zemo"
+			},
+			{
+				"alias": "Zemo"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "May Parker",
+		"aliases": [
+			{
+				"alias": "May"
+			},
+			{
+				"alias": "Aunt May"
+			},
+			{
+				"alias": "Maybelle Parker"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Far From Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Everett Ross",
+		"aliases": [
+			{
+				"alias": "Ross"
+			},
+			{
+				"alias": "Agent Ross"
+			},
+			{
+				"alias": "Agent Everett Ross"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain America: Civil War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Panther",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Panther: Wakanda Forever",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Stephen Strange",
+		"aliases": [
+			{
+				"alias": "Doctor Strange"
+			},
+			{
+				"alias": "Dr Strange"
+			},
+			{
+				"alias": "Strange"
+			},
+			{
+				"alias": "Stephen Vincent Strange"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Doctor Strange",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Doctor Strange in the Multiverse of Madness",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Karl Mordo",
+		"aliases": [
+			{
+				"alias": "Mordo"
+			},
+			{
+				"alias": "Baron Mordo",
+				"inMovie": "Doctor Strange in the Multiverse of Madness"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Doctor Strange",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Doctor Strange in the Multiverse of Madness",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Illuminati",
+				"weight": 1,
+				"movie": "Doctor Strange in the Multiverse of Madness"
+			}
+		]
+	},
+	{
+		"name": "Christine Palmer",
+		"aliases": [
+			{
+				"alias": "Christine"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Doctor Strange",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Doctor Strange in the Multiverse of Madness",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Wong",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Doctor Strange",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Shang-Chi and the Legend of the Ten Rings",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Doctor Strange in the Multiverse of Madness",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Kaecilius",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Doctor Strange",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Ancient One",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Doctor Strange",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Dormammu",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Doctor Strange",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Mantis",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy Vol. 2",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Guardian of the Galaxy",
+				"weight": 5
+			}
+		]
+	},
+	{
+		"name": "Ego",
+		"aliases": [
+			{
+				"alias": "Ego the Living Planet"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy Vol. 2",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Ayesha",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Guardians of the Galaxy Vol. 2",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Adrian Toomes",
+		"aliases": [
+			{
+				"alias": "Vulture"
+			},
+			{
+				"alias": "Toomes"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Michelle Jones-Watson",
+		"aliases": [
+			{
+				"alias": "MJ"
+			},
+			{
+				"alias": "Michelle Watson"
+			},
+			{
+				"alias": "MJ Watson"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Far From Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Aaron Davis",
+		"aliases": [
+			{
+				"alias": "Prowler"
+			},
+			{
+				"alias": "Aaron"
+			},
+			{
+				"alias": "Davis"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Ned Leeds",
+		"aliases": [
+			{
+				"alias": "Ned"
+			},
+			{
+				"alias": "Edward Leeds"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Far From Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Liz Allan",
+		"aliases": [
+			{
+				"alias": "Liz"
+			},
+			{
+				"alias": "Elizabeth Allan"
+			},
+			{
+				"alias": "Elizabeth Toomes"
+			},
+			{
+				"alias": "Liz Toomes"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Flash Thompson",
+		"aliases": [
+			{
+				"alias": "Flash"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Far From Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Betty Brant",
+		"aliases": [
+			{
+				"alias": "Betty"
+			},
+			{
+				"alias": "Elizabeth Brant"
+			},
+			{
+				"alias": "Brant"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: Homecoming",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Far From Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Hela",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Asgardian",
+				"weight": 6
+			}
+		]
+	},
+	{
+		"name": "Brunnhilde",
+		"aliases": [
+			{
+				"alias": "Valkyrie"
+			},
+			{
+				"alias": "Scrapper 142"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Asgardian",
+				"weight": 6
+			}
+		]
+	},
+	{
+		"name": "Skurge",
+		"aliases": [
+			{
+				"alias": "Executioner"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Asgardian",
+				"weight": 6
+			}
+		]
+	},
+	{
+		"name": "Grandmaster",
+		"aliases": [
+			{
+				"alias": "En Dwi Gast"
+			},
+			{
+				"alias": "Gast"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Korg",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Miek",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Thor: Ragnarok",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Erik Stevens",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Black Panther",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Panther: Wakanda Forever",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Nakia",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Black Panther",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Panther: Wakanda Forever",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Ramonda",
+		"aliases": [
+			{
+				"alias": "Queen Ramonda"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Black Panther",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Panther: Wakanda Forever",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Okoye",
+		"aliases": [
+			{
+				"alias": "Midnight Angel"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Black Panther",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Panther: Wakanda Forever",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "Shuri",
+		"aliases": [
+			{
+				"alias": "Black Panther"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Black Panther",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Panther: Wakanda Forever",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "M'Baku",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Black Panther",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Panther: Wakanda Forever",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "W'Kabi",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Black Panther",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Eitri",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Cull Obsidian",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Ebony Maw",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Proxima Midnight",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Corvus Glaive",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Avengers: Infinity War",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Janet van Dyne",
+		"aliases": [
+			{
+				"alias": "Janet"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Ant-Man and the Wasp",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Ava Starr",
+		"aliases": [
+			{
+				"alias": "Ava"
+			},
+			{
+				"alias": "Ghost"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Ant-Man and the Wasp",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Carol Danvers",
+		"aliases": [
+			{
+				"alias": "Captain Marvel"
+			},
+			{
+				"alias": "Vers"
+			},
+			{
+				"alias": "Danvers"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain Marvel",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Shang-Chi and the Legend of the Ten Rings",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Avenger",
+				"weight": 4
+			}
+		]
+	},
+	{
+		"name": "Talos",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Captain Marvel",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: Far From Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Yon-Rogg",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Captain Marvel",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Maria Rambeau",
+		"aliases": [
+			{
+				"alias": "Director Rambeau"
+			},
+			{
+				"alias": "Photon"
+			},
+			{
+				"alias": "Captain Marvel",
+				"inMovie": "Doctor Strange in the Multiverse of Madness"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain Marvel",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Doctor Strange in the Multiverse of Madness",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Illuminati",
+				"weight": 1,
+				"movie": "Doctor Strange in the Multiverse of Madness"
+			}
+		]
+	},
+	{
+		"name": "Monica Rambeau",
+		"aliases": [
+			{
+				"alias": "Monica"
+			},
+			{
+				"alias": "Geraldine"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain Marvel",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Mar-Vell",
+		"aliases": [
+			{
+				"alias": "Wendy Lawson"
+			},
+			{
+				"alias": "Lawson"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Captain Marvel",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Goose",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Captain Marvel",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Not a Cat",
+				"weight": 2
+			}
+		]
+	},
+	{
+		"name": "Morgan Stark",
+		"aliases": [
+			{
+				"alias": "Morgan"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Avengers: Endgame",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Quentin Beck",
+		"aliases": [
+			{
+				"alias": "Beck"
+			},
+			{
+				"alias": "Mysterio"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: Far From Home",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "J. Jonah Jameson Jr.",
+		"aliases": [
+			{
+				"alias": "J Jonah Jameson"
+			},
+			{
+				"alias": "J. Jonah Jameson"
+			},
+			{
+				"alias": "Jameson"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: Far From Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Yelena Belova",
+		"aliases": [
+			{
+				"alias": "Yelena"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Black Widow",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Melina Vostokoff",
+		"aliases": [
+			{
+				"alias": "Melina"
+			},
+			{
+				"alias": "Vostokoff"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Black Widow",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Alexei Shostakov",
+		"aliases": [
+			{
+				"alias": "Alexei"
+			},
+			{
+				"alias": "Red Guardian"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Black Widow",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Dreykov",
+		"aliases": [
+			{
+				"alias": "General Dreykov"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Black Widow",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Antonia Dreykov",
+		"aliases": [
+			{
+				"alias": "Antonia"
+			},
+			{
+				"alias": "Taskmaster"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Black Widow",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Valentina Allegra de Fontaine",
+		"aliases": [
+			{
+				"alias": "Valentina"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Black Widow",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			},
+			{
+				"name": "Black Panther: Wakanda Forever",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Shang-Chi",
+		"aliases": [
+			{
+				"alias": "Xu Shang-Chi"
+			},
+			{
+				"alias": "Shaun"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Shang-Chi and the Legend of the Ten Rings",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Xu Wenwu",
+		"aliases": [
+			{
+				"alias": "Mandarin"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Shang-Chi and the Legend of the Ten Rings",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Katy Chen",
+		"aliases": [
+			{
+				"alias": "Katy"
+			},
+			{
+				"alias": "Chen Ruiwen"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Shang-Chi and the Legend of the Ten Rings",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Xu Xialing",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Shang-Chi and the Legend of the Ten Rings",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Sersi",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Eternal",
+				"weight": 3
+			}
+		]
+	},
+	{
+		"name": "Ikaris",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Eternal",
+				"weight": 3
+			}
+		]
+	},
+	{
+		"name": "Thena",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Eternal",
+				"weight": 3
+			}
+		]
+	},
+	{
+		"name": "Ajak",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Eternal",
+				"weight": 3
+			}
+		]
+	},
+	{
+		"name": "Dane Whitman",
+		"aliases": [
+			{
+				"alias": "Whitman"
+			},
+			{
+				"alias": "Black Knight"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Kingo",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Eternal",
+				"weight": 3
+			}
+		]
+	},
+	{
+		"name": "Sprite",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Eternal",
+				"weight": 3
+			}
+		]
+	},
+	{
+		"name": "Phastos",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Eternal",
+				"weight": 3
+			}
+		]
+	},
+	{
+		"name": "Makkari",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Eternal",
+				"weight": 3
+			}
+		]
+	},
+	{
+		"name": "Druig",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Eternal",
+				"weight": 3
+			}
+		]
+	},
+	{
+		"name": "Gilgamesh",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Eternal",
+				"weight": 3
+			}
+		]
+	},
+	{
+		"name": "Arishem the Judge",
+		"aliases": [
+			{
+				"alias": "Arishem"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Kro",
+		"aliases": [
+			
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Pip the Troll",
+		"aliases": [
+			{
+				"alias": "Pip"
+			},
+			{
+				"alias": "Pip Gofern"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Eric Brooks",
+		"aliases": [
+			{
+				"alias": "Blade"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Eros",
+		"aliases": [
+			{
+				"alias": "Starfox"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Eternals",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Eternal",
+				"weight": 3
+			}
+		]
+	},
+	{
+		"name": "Peter 2",
+		"aliases": [
+			{
+				"alias": "Spider-Man"
+			},
+			{
+				"alias": "Spiderman"
+			},
+			{
+				"alias": "Peter Parker"
+			},
+			{
+				"alias": "Peter Benjamin Parker"
+			},
+			{
+				"alias": "Peter-Two"
+			},
+			{
+				"alias": "Peter-2"
+			},
+			{
+				"alias": "Peter Two"
+			},
+			{
+				"alias": "Friendly Neighborhood Spiderman"
+			},
+			{
+				"alias": "Friendly Neighborhood Spider-man"
+			},
+			{
+				"alias": "Friendly Neighborhood Spider Man"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Peter 3",
+		"aliases": [
+			{
+				"alias": "Spider-Man"
+			},
+			{
+				"alias": "Spiderman"
+			},
+			{
+				"alias": "Peter Parker"
+			},
+			{
+				"alias": "Peter Benjamin Parker"
+			},
+			{
+				"alias": "Peter-Three"
+			},
+			{
+				"alias": "Peter-3"
+			},
+			{
+				"alias": "Peter Three"
+			},
+			{
+				"alias": "Amazing Spiderman"
+			},
+			{
+				"alias": "Amazing Spider-Man"
+			},
+			{
+				"alias": "Amazing Spider Man"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": true,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Max Dillon",
+		"aliases": [
+			{
+				"alias": "Maxwell Dillon"
+			},
+			{
+				"alias": "Dillon"
+			},
+			{
+				"alias": "Electro"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Norman Osborn",
+		"aliases": [
+			{
+				"alias": "Green Goblin"
+			},
+			{
+				"alias": "Doctor Osborn"
+			},
+			{
+				"alias": "Dr Osborn"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Otto Octavius",
+		"aliases": [
+			{
+				"alias": "Doctor Octavius"
+			},
+			{
+				"alias": "Dr Octavius"
+			},
+			{
+				"alias": "Doctor Octopus"
+			},
+			{
+				"alias": "Dr Octopus"
+			},
+			{
+				"alias": "Doc Ock"
+			},
+			{
+				"alias": "Otto Gunther Octavius"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Curt Connors",
+		"aliases": [
+			{
+				"alias": "Lizard"
+			},
+			{
+				"alias": "Curtis Connors"
+			},
+			{
+				"alias": "Doctor Connors"
+			},
+			{
+				"alias": "Dr Connors"
+			},
+			{
+				"alias": "Connors"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Matt Murdock",
+		"aliases": [
+			{
+				"alias": "Matthew Murdock"
+			},
+			{
+				"alias": "Murdock"
+			},
+			{
+				"alias": "Daredevil"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Flint Marko",
+		"aliases": [
+			{
+				"alias": "Marko"
+			},
+			{
+				"alias": "Sandman"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Eddie Brock",
+		"aliases": [
+			{
+				"alias": "Venom"
+			},
+			{
+				"alias": "Brock"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Spider-Man: No Way Home",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "America Chavez",
+		"aliases": [
+			{
+				"alias": "America"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Doctor Strange in the Multiverse of Madness",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Blackagar Boltagon",
+		"aliases": [
+			{
+				"alias": "Black Bolt"
+			},
+			{
+				"alias": "Blackagar"
+			},
+			{
+				"alias": "Boltagon"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Doctor Strange in the Multiverse of Madness",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Reed Richards",
+		"aliases": [
+			{
+				"alias": "Mister Fantastic"
+			},
+			{
+				"alias": "Mr Fantastic"
+			},
+			{
+				"alias": "Dr Reed Richards"
+			},
+			{
+				"alias": "Dr Richards"
+			},
+			{
+				"alias": "Doctor Reed Richards"
+			},
+			{
+				"alias": "Doctor Richards"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Doctor Strange in the Multiverse of Madness",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Illuminati",
+				"weight": 1,
+				"movie": "Doctor Strange in the Multiverse of Madness"
+			}
+		]
+	},
+	{
+		"name": "Charles Xavier",
+		"aliases": [
+			{
+				"alias": "Professor X"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Doctor Strange in the Multiverse of Madness",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		],
+		"teams": [
+			{
+				"name": "Illuminati",
+				"weight": 1,
+				"movie": "Doctor Strange in the Multiverse of Madness"
+			}
+		]
+	},
+	{
+		"name": "Gorr the God Butcher",
+		"aliases": [
+			{
+				"alias": "Gorr"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Zeus",
+		"aliases": [
+			{
+				"alias": "God of Lightning"
+			},
+			{
+				"alias": "Zeus Panhellenios"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Hercules",
+		"aliases": [
+			{
+				"alias": "Hercules Panhellenios"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Thor: Love and Thunder",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": true,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Ch'ah Toh Almehen",
+		"aliases": [
+			{
+				"alias": "K'uk'ulkan"
+			},
+			{
+				"alias": "Kukulkan"
+			},
+			{
+				"alias": "Namor"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Black Panther: Wakanda Forever",
+				"isTitular": false,
+				"isVillain": true,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	},
+	{
+		"name": "Riri WIlliams",
+		"aliases": [
+			{
+				"alias": "Riri"
+			},
+			{
+				"alias": "Ironheart"
+			}
+		],
+		"appearances": [
+			{
+				"name": "Black Panther: Wakanda Forever",
+				"isTitular": false,
+				"isVillain": false,
+				"inPostCredits": false,
+				"isMainCharacter": false,
+				"isStanLee": false
+			}
+		]
+	}
+]

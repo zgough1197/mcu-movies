@@ -1,0 +1,1700 @@
+[
+  {
+    "name": "Iron Man",
+    "appearances": [
+      {
+        "name": "Tony Stark",
+        "isTitular": true
+      },
+      {
+        "name": "James Rhodes"
+      },
+      {
+        "name": "Pepper Potts"
+      },
+      {
+        "name": "Phil Coulson"
+      },
+      {
+        "name": "Howard Stark"
+      },
+      {
+        "name": "Happy Hogan"
+      },
+      {
+        "name": "Nick Fury",
+        "inPostCredits": true
+      },
+      {
+        "name": "Obadiah Stane",
+        "isVillain": true
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      }
+    ]
+  },
+  {
+    "name": "The Incredible Hulk",
+    "appearances": [
+      {
+        "name": "Bruce Banner",
+        "isTitular": true
+      },
+      {
+        "name": "Betty Ross",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Emil Blonsky",
+        "isVillain": true
+      },
+      {
+        "name": "Thaddeus Ross"
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      },
+      {
+        "name": "Tony Stark",
+        "inPostCredits": true
+      }
+    ]
+  },
+  {
+    "name": "Iron Man 2",
+    "specialAliases": [
+      {
+        "name": "Natasha Romanoff",
+        "alias": "Natalie Rushman"
+      }
+    ],
+    "appearances": [
+      {
+        "name": "Tony Stark",
+        "isTitular": true
+      },
+      {
+        "name": "Pepper Potts"
+      },
+      {
+        "name": "James Rhodes"
+      },
+      {
+        "name": "Justin Hammer",
+        "isVillain": true
+      },
+      {
+        "name": "Natasha Romanoff"
+      },
+      {
+        "name": "Ivan Vanko",
+        "isVillain": true
+      },
+      {
+        "name": "Howard Stark"
+      },
+      {
+        "name": "Happy Hogan"
+      },
+      {
+        "name": "Phil Coulson"
+      },
+      {
+        "name": "Nick Fury"
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      }
+    ]
+  },
+  {
+    "name": "Thor",
+    "appearances": [
+      {
+        "name": "Thor",
+        "isTitular": true
+      },
+      {
+        "name": "Loki"
+      },
+      {
+        "name": "Jane Foster"
+      },
+      {
+        "name": "Odin"
+      },
+      {
+        "name": "Erik Selvig"
+      },
+      {
+        "name": "Darcy Lewis"
+      },
+      {
+        "name": "Laufey",
+        "isVillain": true
+      },
+      {
+        "name": "Heimdall"
+      },
+      {
+        "name": "Sif"
+      },
+      {
+        "name": "Hogun"
+      },
+      {
+        "name": "Fandral"
+      },
+      {
+        "name": "Volstagg"
+      },
+      {
+        "name": "Frigga"
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      },
+      {
+        "name": "Nick Fury",
+        "inPostCredits": true
+      },
+      {
+        "name": "Clint Barton"
+      }
+    ]
+  },
+  {
+    "name": "Captain America: The First Avenger",
+    "appearances": [
+      {
+        "name": "Steve Rogers",
+        "isTitular": true
+      },
+      {
+        "name": "Peggy Carter"
+      },
+      {
+        "name": "Bucky Barnes"
+      },
+      {
+        "name": "Johann Schmidt",
+        "isVillain": true
+      },
+      {
+        "name": "Howard Stark"
+      },
+      {
+        "name": "Arnim Zola",
+        "isVillain": true
+      },
+      {
+        "name": "Nick Fury"
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      }
+    ]
+  },
+  {
+    "name": "The Avengers",
+    "appearances": [
+      {
+        "name": "Tony Stark"
+      },
+      {
+        "name": "Loki",
+        "isVillain": true
+      },
+      {
+        "name": "Steve Rogers"
+      },
+      {
+        "name": "Bruce Banner"
+      },
+      {
+        "name": "Thor"
+      },
+      {
+        "name": "Natasha Romanoff"
+      },
+      {
+        "name": "Clint Barton"
+      },
+      {
+        "name": "Phil Coulson"
+      },
+      {
+        "name": "Maria Hill"
+      },
+      {
+        "name": "Erik Selvig"
+      },
+      {
+        "name": "Nick Fury"
+      },
+      {
+        "name": "Pepper Potts"
+      },
+      {
+        "name": "Thanos",
+        "isVillain": true,
+        "inPostCredits": true
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      }
+    ]
+  },
+  {
+    "name": "Iron Man 3",
+    "appearances": [
+      {
+        "name": "Tony Stark",
+        "isTitular": true
+      },
+      {
+        "name": "Pepper Potts"
+      },
+      {
+        "name": "James Rhodes"
+      },
+      {
+        "name": "Aldrich Killian",
+        "isVillain": true
+      },
+      {
+        "name": "Happy Hogan"
+      },
+      {
+        "name": "Trevor Slattery",
+        "isVillain": true
+      },
+      {
+        "name": "Bruce Banner",
+        "inPostCredits": true
+      },
+      {
+        "name": "Harley Keener"
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      }
+    ]
+  },
+  {
+    "name": "Thor: The Dark World",
+    "appearances": [
+      {
+        "name": "Thor",
+        "isTitular": true
+      },
+      {
+        "name": "Jane Foster"
+      },
+      {
+        "name": "Loki"
+      },
+      {
+        "name": "Odin"
+      },
+      {
+        "name": "Malekith",
+        "isVillain": true
+      },
+      {
+        "name": "Darcy Lewis"
+      },
+      {
+        "name": "Heimdall"
+      },
+      {
+        "name": "Sif"
+      },
+      {
+        "name": "Hogun"
+      },
+      {
+        "name": "Fandral"
+      },
+      {
+        "name": "Volstagg"
+      },
+      {
+        "name": "Frigga"
+      },
+      {
+        "name": "Erik Selvig"
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      },
+      {
+        "name": "Collector",
+        "inPostCredits": true
+      }
+    ]
+  },
+  {
+    "name": "Captain America: The Winter Soldier",
+    "appearances": [
+      {
+        "name": "Steve Rogers",
+        "isTitular": true
+      },
+      {
+        "name": "Nick Fury"
+      },
+      {
+        "name": "Natasha Romanoff"
+      },
+      {
+        "name": "Alexander Pierce",
+        "isVillain": true
+      },
+      {
+        "name": "Bucky Barnes",
+        "isTitular": true
+      },
+      {
+        "name": "Sam Wilson"
+      },
+      {
+        "name": "Maria Hill"
+      },
+      {
+        "name": "Arnim Zola",
+        "isVillain": true
+      },
+      {
+        "name": "Peggy Carter"
+      },
+      {
+        "name": "Wanda Maximoff",
+        "inPostCredits": true
+      },
+      {
+        "name": "Pietro Maximoff",
+        "inPostCredits": true
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      }
+    ]
+  },
+  {
+    "name": "Guardians of the Galaxy",
+    "appearances": [
+      {
+        "name": "Peter Quill"
+      },
+      {
+        "name": "Gamora"
+      },
+      {
+        "name": "Drax the Destroyer"
+      },
+      {
+        "name": "Groot"
+      },
+      {
+        "name": "Rocket Raccoon"
+      },
+      {
+        "name": "Ronan the Accuser",
+        "isVillain": true
+      },
+      {
+        "name": "Thanos",
+        "isVillain": true
+      },
+      {
+        "name": "Yondu Udonta",
+        "isVillain": true
+      },
+      {
+        "name": "Nebula",
+        "isVillain": true
+      },
+      {
+        "name": "Collector"
+      },
+      {
+        "name": "Howard the Duck"
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      },
+      {
+        "name": "Kraglin Obfonteri"
+      }
+    ]
+  },
+  {
+    "name": "Avengers: Age of Ultron",
+    "appearances": [
+      {
+        "name": "Tony Stark"
+      },
+      {
+        "name": "Thor"
+      },
+      {
+        "name": "Bruce Banner"
+      },
+      {
+        "name": "Steve Rogers"
+      },
+      {
+        "name": "Natasha Romanoff"
+      },
+      {
+        "name": "Clint Barton"
+      },
+      {
+        "name": "James Rhodes"
+      },
+      {
+        "name": "Pietro Maximoff"
+      },
+      {
+        "name": "Wanda Maximoff"
+      },
+      {
+        "name": "Vision"
+      },
+      {
+        "name": "Maria Hill"
+      },
+      {
+        "name": "Sam Wilson"
+      },
+      {
+        "name": "Peggy Carter"
+      },
+      {
+        "name": "Laura Barton"
+      },
+      {
+        "name": "Erik Selvig"
+      },
+      {
+        "name": "Heimdall"
+      },
+      {
+        "name": "Ultron",
+        "isVillain": true,
+        "isTitular": true
+      },
+      {
+        "name": "Nick Fury"
+      },
+      {
+        "name": "Ulysses Klaue"
+      },
+      {
+        "name": "Cooper Barton"
+      },
+      {
+        "name": "Lila Barton"
+      },
+      {
+        "name": "Nathaniel Barton"
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      },
+      {
+        "name": "Thanos",
+        "isVillain": true,
+        "inPostCredits": true
+      }
+    ]
+  },
+  {
+    "name": "Ant-Man",
+    "appearances": [
+      {
+        "name": "Scott Lang",
+        "isTitular": true
+      },
+      {
+        "name": "Hank Pym"
+      },
+      {
+        "name": "Hope van Dyne"
+      },
+      {
+        "name": "Darren Cross",
+        "isVillain": true
+      },
+      {
+        "name": "Sam Wilson"
+      },
+      {
+        "name": "Cassie Lang"
+      },
+      {
+        "name": "Luis"
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      },
+      {
+        "name": "Steve Rogers",
+        "inPostCredits": true
+      },
+      {
+        "name": "Bucky Barnes",
+        "inPostCredits": true
+      }
+    ]
+  },
+  {
+    "name": "Captain America: Civil War",
+    "appearances": [
+      {
+        "name": "Steve Rogers",
+        "isTitular": true
+      },
+      {
+        "name": "T'Chaka"
+      },
+      {
+        "name": "Tony Stark"
+      },
+      {
+        "name": "Natasha Romanoff"
+      },
+      {
+        "name": "Bucky Barnes"
+      },
+      {
+        "name": "Sam Wilson"
+      },
+      {
+        "name": "James Rhodes"
+      },
+      {
+        "name": "Clint Barton"
+      },
+      {
+        "name": "T'Challa"
+      },
+      {
+        "name": "Vision"
+      },
+      {
+        "name": "Wanda Maximoff"
+      },
+      {
+        "name": "Scott Lang"
+      },
+      {
+        "name": "Peter Parker"
+      },
+      {
+        "name": "Thaddeus Ross"
+      },
+      {
+        "name": "Howard Stark"
+      },
+      {
+        "name": "Helmut Zemo",
+        "isVillain": true
+      },
+      {
+        "name": "May Parker"
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      },
+      {
+        "name": "Everett Ross"
+      }
+    ]
+  },
+  {
+    "name": "Doctor Strange",
+    "appearances": [
+      {
+        "name": "Stephen Strange",
+        "isTitular": true
+      },
+      {
+        "name": "Karl Mordo"
+      },
+      {
+        "name": "Christine Palmer"
+      },
+      {
+        "name": "Wong"
+      },
+      {
+        "name": "Kaecilius",
+        "isVillain": true
+      },
+      {
+        "name": "Ancient One"
+      },
+      {
+        "name": "Dormammu",
+        "isVillain": true
+      },
+      {
+        "name": "Thor",
+        "inPostCredits": true
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      }
+    ]
+  },
+  {
+    "name": "Guardians of the Galaxy Vol. 2",
+    "appearances": [
+      {
+        "name": "Peter Quill"
+      },
+      {
+        "name": "Gamora"
+      },
+      {
+        "name": "Drax the Destroyer"
+      },
+      {
+        "name": "Groot"
+      },
+      {
+        "name": "Rocket Raccoon"
+      },
+      {
+        "name": "Mantis"
+      },
+      {
+        "name": "Yondu Udonta"
+      },
+      {
+        "name": "Nebula"
+      },
+      {
+        "name": "Kraglin Obfonteri"
+      },
+      {
+        "name": "Ego",
+        "isVillain": true
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      },
+      {
+        "name": "Howard the Duck"
+      },
+      {
+        "name": "Ayesha",
+        "isVillain": true
+      }
+    ]
+  },
+  {
+    "name": "Spider-Man: Homecoming",
+    "appearances": [
+      {
+        "name": "Peter Parker",
+        "isTitular": true
+      },
+      {
+        "name": "Adrian Toomes",
+        "isVillain": true
+      },
+      {
+        "name": "Tony Stark"
+      },
+      {
+        "name": "May Parker"
+      },
+      {
+        "name": "Happy Hogan"
+      },
+      {
+        "name": "Pepper Potts"
+      },
+      {
+        "name": "Michelle Jones-Watson"
+      },
+      {
+        "name": "Ned Leeds"
+      },
+      {
+        "name": "Liz Allan",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Flash Thompson"
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      },
+      {
+        "name": "Betty Brant"
+      },
+      {
+        "name": "Steve Rogers"
+      }
+    ]
+  },
+  {
+    "name": "Thor: Ragnarok",
+    "appearances": [
+      {
+        "name": "Thor",
+        "isTitular": true
+      },
+      {
+        "name": "Loki"
+      },
+      {
+        "name": "Bruce Banner"
+      },
+      {
+        "name": "Hela",
+        "isVillain": true
+      },
+      {
+        "name": "Brunnhilde"
+      },
+      {
+        "name": "Heimdall"
+      },
+      {
+        "name": "Odin"
+      },
+      {
+        "name": "Skurge",
+        "isVillain": true
+      },
+      {
+        "name": "Grandmaster",
+        "isVillain": true
+      },
+      {
+        "name": "Volstagg"
+      },
+      {
+        "name": "Fandral"
+      },
+      {
+        "name": "Hogun"
+      },
+      {
+        "name": "Stephen Strange"
+      },
+      {
+        "name": "Korg"
+      },
+      {
+        "name": "Miek"
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      }
+    ]
+  },
+  {
+    "name": "Black Panther",
+    "appearances": [
+      {
+        "name": "T'Challa",
+        "isTitular": true
+      },
+      {
+        "name": "T'Chaka",
+        "isTitular": true
+      },
+      {
+        "name": "Erik Stevens",
+        "isVillain": true
+      },
+      {
+        "name": "Nakia"
+      },
+      {
+        "name": "Ramonda"
+      },
+      {
+        "name": "Okoye"
+      },
+      {
+        "name": "Everett Ross"
+      },
+      {
+        "name": "Shuri"
+      },
+      {
+        "name": "M'Baku"
+      },
+      {
+        "name": "W'Kabi",
+        "isVillain": true
+      },
+      {
+        "name": "Ulysses Klaue",
+        "isVillain": true
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      },
+      {
+        "name": "Bucky Barnes",
+        "inPostCredits": true
+      }
+    ]
+  },
+  {
+    "name": "Avengers: Infinity War",
+    "appearances": [
+      {
+        "name": "Tony Stark"
+      },
+      {
+        "name": "Thor"
+      },
+      {
+        "name": "Bruce Banner"
+      },
+      {
+        "name": "Steve Rogers"
+      },
+      {
+        "name": "Natasha Romanoff"
+      },
+      {
+        "name": "James Rhodes"
+      },
+      {
+        "name": "Stephen Strange"
+      },
+      {
+        "name": "Peter Parker"
+      },
+      {
+        "name": "T'Challa"
+      },
+      {
+        "name": "Gamora"
+      },
+      {
+        "name": "Nebula"
+      },
+      {
+        "name": "Loki"
+      },
+      {
+        "name": "Vision"
+      },
+      {
+        "name": "Wanda Maximoff"
+      },
+      {
+        "name": "Sam Wilson"
+      },
+      {
+        "name": "Bucky Barnes"
+      },
+      {
+        "name": "Heimdall"
+      },
+      {
+        "name": "Okoye"
+      },
+      {
+        "name": "Wong"
+      },
+      {
+        "name": "Mantis"
+      },
+      {
+        "name": "Drax the Destroyer"
+      },
+      {
+        "name": "Groot"
+      },
+      {
+        "name": "Rocket Raccoon"
+      },
+      {
+        "name": "Pepper Potts"
+      },
+      {
+        "name": "Collector"
+      },
+      {
+        "name": "Thanos",
+        "isVillain": true
+      },
+      {
+        "name": "Peter Quill"
+      },
+      {
+        "name": "Thaddeus Ross"
+      },
+      {
+        "name": "Shuri"
+      },
+      {
+        "name": "Cull Obsidian",
+        "isVillain": true
+      },
+      {
+        "name": "Ebony Maw",
+        "isVillain": true
+      },
+      {
+        "name": "Proxima Midnight",
+        "isVillain": true
+      },
+      {
+        "name": "Corvus Glaive",
+        "isVillain": true
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      },
+      {
+        "name": "M'Baku"
+      },
+      {
+        "name": "Ned Leeds"
+      },
+      {
+        "name": "Johann Schmidt"
+      },
+      {
+        "name": "Nick Fury",
+        "inPostCredits": true
+      },
+      {
+        "name": "Maria Hill",
+        "inPostCredits": true
+      }
+    ]
+  },
+  {
+    "name": "Ant-Man and the Wasp",
+    "appearances": [
+      {
+        "name": "Scott Lang",
+        "isTitular": true
+      },
+      {
+        "name": "Hope van Dyne",
+        "isTitular": true
+      },
+      {
+        "name": "Hank Pym"
+      },
+      {
+        "name": "Janet van Dyne"
+      },
+      {
+        "name": "Luis"
+      },
+      {
+        "name": "Cassie Lang"
+      },
+      {
+        "name": "Ava Starr",
+        "isVillain": true
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      }
+    ]
+  },
+  {
+    "name": "Captain Marvel",
+    "appearances": [
+      {
+        "name": "Carol Danvers",
+        "isTitular": true
+      },
+      {
+        "name": "Nick Fury"
+      },
+      {
+        "name": "Talos"
+      },
+      {
+        "name": "Yon-Rogg",
+        "isVillain": true
+      },
+      {
+        "name": "Ronan the Accuser",
+        "isVillain": true
+      },
+      {
+        "name": "Maria Rambeau"
+      },
+      {
+        "name": "Stan Lee"
+      },
+      {
+        "name": "Steve Rogers",
+        "inPostCredits": true
+      },
+      {
+        "name": "Natasha Romanoff",
+        "inPostCredits": true
+      },
+      {
+        "name": "James Rhodes",
+        "inPostCredits": true
+      },
+      {
+        "name": "Bruce Banner",
+        "inPostCredits": true
+      },
+      {
+        "name": "Goose"
+      }
+    ]
+  },
+  {
+    "name": "Avengers: Endgame",
+    "appearances": [
+      {
+        "name": "Alexander Pierce"
+      },
+      {
+        "name": "Ancient One"
+      },
+      {
+        "name": "Bruce Banner"
+      },
+      {
+        "name": "Brunnhilde"
+      },
+      {
+        "name": "Bucky Barnes"
+      },
+      {
+        "name": "Carol Danvers"
+      },
+      {
+        "name": "Cassie Lang"
+      },
+      {
+        "name": "Clint Barton"
+      },
+      {
+        "name": "Cooper Barton"
+      },
+      {
+        "name": "Corvus Glaive",
+        "isVillain": true
+      },
+      {
+        "name": "Cull Obsidian",
+        "isVillain": true
+      },
+      {
+        "name": "Drax the Destroyer"
+      },
+      {
+        "name": "Ebony Maw",
+        "isVillain": true
+      },
+      {
+        "name": "Frigga"
+      },
+      {
+        "name": "Gamora"
+      },
+      {
+        "name": "Groot"
+      },
+      {
+        "name": "Hank Pym"
+      },
+      {
+        "name": "Happy Hogan"
+      },
+      {
+        "name": "Harley Keener"
+      },
+      {
+        "name": "Hope van Dyne"
+      },
+      {
+        "name": "Howard Stark"
+      },
+      {
+        "name": "James Rhodes"
+      },
+      {
+        "name": "Jane Foster"
+      },
+      {
+        "name": "Janet van Dyne"
+      },
+      {
+        "name": "Johann Schmidt"
+      },
+      {
+        "name": "Korg"
+      },
+      {
+        "name": "Kraglin Obfonteri"
+      },
+      {
+        "name": "Laura Barton"
+      },
+      {
+        "name": "Lila Barton"
+      },
+      {
+        "name": "Loki"
+      },
+      {
+        "name": "M'Baku"
+      },
+      {
+        "name": "Mantis"
+      },
+      {
+        "name": "Maria Hill"
+      },
+      {
+        "name": "May Parker"
+      },
+      {
+        "name": "Natasha Romanoff"
+      },
+      {
+        "name": "Nathaniel Barton"
+      },
+      {
+        "name": "Nebula"
+      },
+      {
+        "name": "Ned Leeds"
+      },
+      {
+        "name": "Nick Fury"
+      },
+      {
+        "name": "Okoye"
+      },
+      {
+        "name": "Peggy Carter"
+      },
+      {
+        "name": "Pepper Potts"
+      },
+      {
+        "name": "Peter Parker"
+      },
+      {
+        "name": "Peter Quill"
+      },
+      {
+        "name": "Proxima Midnight",
+        "isVillain": true
+      },
+      {
+        "name": "Ramonda"
+      },
+      {
+        "name": "Rocket Raccoon"
+      },
+      {
+        "name": "Sam Wilson"
+      },
+      {
+        "name": "Scott Lang"
+      },
+      {
+        "name": "Shuri"
+      },
+      {
+        "name": "Stephen Strange"
+      },
+      {
+        "name": "Steve Rogers"
+      },
+      {
+        "name": "T'Challa"
+      },
+      {
+        "name": "Thaddeus Ross"
+      },
+      {
+        "name": "Thanos",
+        "isVillain": true
+      },
+      {
+        "name": "Thor"
+      },
+      {
+        "name": "Tony Stark"
+      },
+      {
+        "name": "Wanda Maximoff"
+      },
+      {
+        "name": "Wong"
+      },
+      {
+        "name": "Stan Lee",
+        "isStanLee": true
+      }
+    ]
+  },
+  {
+    "name": "Spider-Man: Far From Home",
+    "appearances": [
+      {
+        "name": "Peter Parker",
+        "isTitular": true
+      },
+      {
+        "name": "Talos"
+      },
+      {
+        "name": "Quentin Beck",
+        "isVillain": true
+      },
+      {
+        "name": "May Parker"
+      },
+      {
+        "name": "Happy Hogan"
+      },
+      {
+        "name": "Michelle Jones-Watson"
+      },
+      {
+        "name": "Ned Leeds"
+      },
+      {
+        "name": "Flash Thompson"
+      },
+      {
+        "name": "Betty Brant"
+      },
+      {
+        "name": "J. Jonah Jameson Jr.",
+        "inPostCredits": true
+      },
+      {
+        "name": "Nick Fury",
+        "inPostCredits": true
+      }
+    ]
+  },
+  {
+    "name": "Black Widow",
+    "appearances": [
+      {
+        "name": "Natasha Romanoff",
+        "isTitular": true
+      },
+      {
+        "name": "Yelena Belova",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Melina Vostokoff",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Alexei Shostakov",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Dreykov",
+        "isVillain": true
+      },
+      {
+        "name": "Antonia Dreykov",
+        "isVillain": true
+      },
+      {
+        "name": "Valentina Allegra de Fontaine",
+        "inPostCredits": true
+      }
+    ]
+  },
+  {
+    "name": "Shang-Chi and the Legend of the Ten Rings",
+    "appearances": [
+      {
+        "name": "Shang-Chi",
+        "isTitular": true
+      },
+      {
+        "name": "Xu Wenwu",
+        "isVillain": true
+      },
+      {
+        "name": "Katy Chen",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Trevor Slattery"
+      },
+      {
+        "name": "Wong"
+      },
+      {
+        "name": "Emil Blonsky"
+      },
+      {
+        "name": "Bruce Banner",
+        "inPostCredits": true
+      },
+      {
+        "name": "Carol Danvers",
+        "inPostCredits": true
+      }
+    ]
+  },
+  {
+    "name": "Eternals",
+    "appearances": [
+      {
+        "name": "Sersi",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Ikaris",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Thena",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Ajak",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Dane Whitman",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Kingo",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Sprite",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Phastos",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Makkari",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Druig",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Gilgamesh",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Arishem the Judge",
+        "isVillain": true
+      },
+      {
+        "name": "Kro",
+        "isVillain": true
+      },
+      {
+        "name": "Pip the Troll",
+        "inPostCredits": true
+      },
+      {
+        "name": "Eric Brooks",
+        "inPostCredits": true
+      },
+      {
+        "name": "Eros",
+        "inPostCredits": true
+      }
+    ]
+  },
+  {
+    "name": "Spider-Man: No Way Home",
+    "specialAliases": [
+      {
+        "name": "Peter Parker",
+        "alias": "Peter 1"
+      },
+      {
+        "name": "Peter Parker",
+        "alias": "Peter-One"
+      },
+      {
+        "name": "Peter Parker",
+        "alias": "Peter One"
+      },
+      {
+        "name": "Peter Parker",
+        "alias": "Peter-1"
+      }
+    ],
+    "appearances": [
+      {
+        "name": "Peter Parker",
+        "isTitular": true
+      },
+      {
+        "name": "Peter 2",
+        "isTitular": true
+      },
+      {
+        "name": "Peter 3",
+        "isTitular": true
+      },
+      {
+        "name": "Michelle Jones-Watson"
+      },
+      {
+        "name": "Stephen Strange"
+      },
+      {
+        "name": "Ned Leeds"
+      },
+      {
+        "name": "Happy Hogan"
+      },
+      {
+        "name": "Max Dillon",
+        "isVillain": true
+      },
+      {
+        "name": "Norman Osborn",
+        "isVillain": true
+      },
+      {
+        "name": "Otto Octavius",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Wong"
+      },
+      {
+        "name": "Flash Thompson"
+      },
+      {
+        "name": "May Parker"
+      },
+      {
+        "name": "Betty Brant"
+      },
+      {
+        "name": "J. Jonah Jameson Jr.",
+        "isVillain": true
+      },
+      {
+        "name": "Curt Connors",
+        "isVillain": true
+      },
+      {
+        "name": "Matt Murdock"
+      },
+      {
+        "name": "Flint Marko",
+        "isVillain": true
+      },
+      {
+        "name": "Eddie Brock",
+        "inPostCredits": true
+      }
+    ]
+  },
+  {
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "specialAliases": [
+      {
+        "name": "Maria Rambeau",
+        "alias": "Captain Marvel"
+      },
+      {
+        "name": "Karl Mordo",
+        "alias": "Baron Mordo"
+      },
+      {
+        "name": "Peggy Carter",
+        "alias": "Captain Carter"
+      }
+    ],
+    "appearances": [
+      {
+        "name": "Stephen Strange",
+        "isTitular": true
+      },
+      {
+        "name": "Wanda Maximoff",
+        "isVillain": true
+      },
+      {
+        "name": "Karl Mordo"
+      },
+      {
+        "name": "Wong"
+      },
+      {
+        "name": "America Chavez",
+        "isMainCharacter": true
+      },
+      {
+        "name": "Christine Palmer"
+      },
+      {
+        "name": "Peggy Carter"
+      },
+      {
+        "name": "Blackagar Boltagon"
+      },
+      {
+        "name": "Maria Rambeau"
+      },
+      {
+        "name": "Reed Richards"
+      },
+      {
+        "name": "Charles Xavier"
+      }
+    ]
+  },
+  {
+    "name": "Thor: Love and Thunder",
+    "appearances": [
+      {
+        "name": "Thor",
+        "isTitular": true
+      },
+      {
+        "name": "Jane Foster"
+      },
+      {
+        "name": "Gorr the God Butcher",
+        "isVillain": true
+      },
+      {
+        "name": "Brunnhilde"
+      },
+      {
+        "name": "Korg"
+      },
+      {
+        "name": "Zeus",
+        "isVillain": true
+      },
+      {
+        "name": "Sif"
+      },
+      {
+        "name": "Heimdall"
+      },
+      {
+        "name": "Peter Quill"
+      },
+      {
+        "name": "Drax the Destroyer"
+      },
+      {
+        "name": "Nebula"
+      },
+      {
+        "name": "Mantis"
+      },
+      {
+        "name": "Rocket Raccoon"
+      },
+      {
+        "name": "Kraglin Obfonteri"
+      },
+      {
+        "name": "Groot"
+      },
+      {
+        "name": "Miek"
+      },
+      {
+        "name": "Darcy Lewis"
+      },
+      {
+        "name": "Erik Selvig"
+      },
+      {
+        "name": "Hercules",
+        "inPostCredits": true
+      }
+    ]
+  },
+  {
+    "name": "Black Panther: Wakanda Forever",
+    "appearances": [
+      {
+        "name": "Shuri",
+        "isTitular": true
+      },
+      {
+        "name": "Okoye"
+      },
+      {
+        "name": "M'Baku"
+      },
+      {
+        "name": "Erik Stevens"
+      },
+      {
+        "name": "Ramonda"
+      },
+      {
+        "name": "Ch'ah Toh Almehen",
+        "isVillain": true
+      },
+      {
+        "name": "Everett Ross"
+      },
+      {
+        "name": "Valentina Allegra de Fontaine"
+      },
+      {
+        "name": "Nakia"
+      },
+      {
+        "name": "Riri WIlliams",
+        "isMainCharacter": true
+      }
+    ]
+  }
+]

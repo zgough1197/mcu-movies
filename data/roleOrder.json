@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Title character",
+        "weight": 1
+    },
+    {
+        "name": "Eternal",
+        "weight": 2
+    },
+    {
+        "name": "Main character",
+        "weight": 3
+    },
+    {
+        "name": "Avenger",
+        "weight": 4
+    },
+    {
+        "name": "Guardian of the galaxy",
+        "weight": 5
+    },
+    {
+        "name": "Asgardian",
+        "weight": 6
+    },
+    {
+        "name": "Illuminati",
+        "weight": 7
+    },
+    {
+        "name": "Villain",
+        "weight": 8
+    },
+    {
+        "name": "Recurring character",
+        "weight": 9
+    },
+    {
+        "name": "Not a cat",
+        "weight": 10
+    },
+    {
+        "name": "Post Credits",
+        "weight": 11
+    },
+    {
+        "name": "Cameo",
+        "weight": 12
+    }
+]
